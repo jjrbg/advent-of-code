@@ -1,0 +1,27 @@
+#!/bin/bash
+
+declare -A priority
+c=0
+for char in {a..z} {A..Z}
+do 
+    c=$(($c+1))
+    priority[$char]=$c
+done
+
+while read items
+do
+    full=${#items}
+    half=$(($full/2))
+    first="${items:0:$half}"
+    second="${items:$half:$full}"
+      
+    for (( i=0; i<${#first}; i++ ))
+    do
+        if [[ "$second" == *"${first:$i:1}"* ]]
+        then 
+            item="${first:$i:1}"
+            echo ${priority[$item]}
+            break
+        fi
+    done 
+done

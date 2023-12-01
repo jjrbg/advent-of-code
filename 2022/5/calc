@@ -1,0 +1,34 @@
+#!/bin/bash
+
+stack[1]=WDGBHRV
+stack[2]=JNGCRF
+stack[3]=LSFHDNJ
+stack[4]=JDSV
+stack[5]=SHDRQWNV
+stack[6]=PGHCM
+stack[7]=FJBGLZHC
+stack[8]=SJR
+stack[9]=LGSRBNVM
+
+while read line
+do
+    regex="^move ([[:digit:]]+) from ([[:digit:]]) to ([[:digit:]])$"
+    if [[ "$line" =~ $regex ]]
+    then 
+        count=${BASH_REMATCH[1]}
+        from=${BASH_REMATCH[2]}
+        to=${BASH_REMATCH[3]}
+
+        from_len=$((${#stack[$from]}-${count}))
+        crates=${stack[$from]:${from_len}}
+        crates=$(echo $crates | rev)
+
+        stack[$from]="${stack[$from]:0:${from_len}}"
+        stack[$to]="${stack[$to]}${crates}"
+    fi
+done
+
+for i in {1..9}
+do
+    echo -n ${stack[$i]:$((${#stack[$i]}-1))}
+done

@@ -1,0 +1,32 @@
+#!/bin/bash
+declare -A size
+cd="^\\$ cd (.*)$"
+while read line
+do
+    if [[ $line =~ $cd ]]
+    then
+        if [[ "${BASH_REMATCH[1]}" == ".." ]]
+        then
+            dirsize=${size[$dir]}
+            dir=$(echo $dir | sed -r 's/\/[^\/]+\/$/\//')
+            size[$dir]=$((${size[$dir]} + $dirsize))
+        elif [[ "${BASH_REMATCH[1]}" == "/" ]]
+        then
+            dir="/"
+        else
+            dir="${dir}${BASH_REMATCH[1]}/"
+        fi
+    elif [[ $line =~ ^[[:digit:]] ]]
+    then
+        size[$dir]=$((${size[$dir]} + $(echo $line | awk '{print $1}')))
+        #echo -e "${size[$dir]}\t$dir"
+    fi
+done
+
+for d in ${!size[@]}
+do
+    #if [ ${size[$d]} -le 100000 ]
+    #then
+        echo "${size[$d]} $d"
+    #fi
+done

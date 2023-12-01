@@ -1,0 +1,8 @@
+#!/bin/bash
+while read line
+do
+    pair=(${line//,/ })
+    a=(${pair[0]//-/ })
+    b=(${pair[1]//-/ })
+    if [[ ${a[0]} -ge ${b[0]} || ${b[0]} -ge ${a[0]} ]]; then echo $line; fi
+done

@@ -1,0 +1,20 @@
+#!/bin/bash
+while read line
+do
+    len=${#line}
+    for (( i=14; i<=${len}; i++ ))
+    do
+        position="${i}"
+        buffer="${line:$((${i}-14)):14}"
+        match=""
+        for (( c=0; c<=13; c++ ))
+        do
+            match="${match}$(grep -o ${buffer:${c}:1} <<< $buffer | wc -l | tr -d ' ')"
+        done
+        if [ "$match" == "11111111111111" ]
+        then
+            echo "$buffer contains unique characters at position $position"
+            break 
+        fi
+    done
+done

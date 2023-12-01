@@ -1,0 +1,12 @@
+#!/bin/bash
+elf=1
+while read line
+do
+	if [ -z "$line" ]
+	then
+  		echo "${calories[$elf]} $elf"
+		((elf++))
+	else
+		calories[$elf]=$((${calories[$elf]}+$line))
+	fi
+done

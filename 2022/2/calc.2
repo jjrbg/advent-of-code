@@ -1,0 +1,24 @@
+#!/bin/bash
+
+function score {
+    if [[ "$1" == A ]]; then echo 1 #rock
+    elif [[ "$1" == B ]]; then echo 2 #paper
+    elif [[ "$1" == C ]]; then echo 3 #scissors
+    else return 0 #error
+    fi
+}
+
+while read them result
+do
+    their_score=$(score $them)
+
+    if [[ "$result" == "Y" ]] 
+        then echo "$((3+$their_score))" #draw
+    elif [[ "$result" == "Z" ]] #win
+        then if [[ $their_score -eq 3 ]]; then echo 7; else echo "$((6+$their_score+1))"; fi
+    elif [[ "$result" == "X" ]] #lose
+        then if [[ $their_score -eq 1 ]]; then echo 3; else echo "$(($their_score-1))"; fi
+    else
+        echo error
+    fi
+done

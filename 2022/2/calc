@@ -1,0 +1,35 @@
+#!/bin/bash
+
+function score {
+    if [[ "$1" =~ A|X ]]; then echo 1 #rock
+    elif [[ "$1" =~ B|Y ]]; then echo 2 #paper
+    elif [[ "$1" =~ C|Z ]]; then echo 3 #scissors
+    else return 0 #error
+    fi
+}
+
+while read them me
+do
+    my_score=$(score $me)
+    their_score=$(score $them)
+    
+    echo "$them ($their_score) vs. $me ($my_score)"
+
+    if [[ $their_score -eq $my_score ]]
+    then 
+        echo "$((3+$my_score)) D" #draw
+    elif [[ $((($their_score-$my_score)*($their_score-$my_score))) -eq 1 ]]
+    then
+        if [[ $my_score -gt $their_score ]]; then echo "$((6+$my_score)) W" #win
+        elif [[ $my_score -lt $their_score ]]; then echo "$(($my_score)) L" #lose
+        else echo error
+        fi 
+    elif [[ $((($their_score-$my_score)*($their_score-$my_score))) -eq 4 ]]
+    then
+        if [[ $my_score -gt $their_score ]]; then echo "$(($my_score)) L" #lose
+        elif [[ $my_score -lt $their_score ]]; then echo "$((6+$my_score)) W" #win
+        else echo error
+        fi
+    else echo error
+    fi
+done
