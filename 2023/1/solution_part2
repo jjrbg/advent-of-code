@@ -1,0 +1,30 @@
+#!/bin/bash
+
+CALIBRATION_TOTAL=0
+
+for line in $(cat input)
+do
+  # Handle the horrid combined number words
+  ADJUSTED_LINE=$(echo "$line" | sed -e 's/oneight/18/; s/eighthree/83/; s/eightwo/82/; s/nineight/98/; s/fiveight/58/; s/threeight/38/; s/twone/21/;')
+
+  # Now handle the standalone number words
+  ADJUSTED_LINE=$(echo "$ADJUSTED_LINE" | sed -e 's/nine/9/g; s/eight/8/g; s/seven/7/g; s/six/6/g; s/five/5/g; s/four/4/g; s/three/3/g; s/two/2/g; s/one/1/g;')
+
+  # Grab the first digit
+  CALIBRATION_FIRST=$(echo "$ADJUSTED_LINE" | sed -r 's/^[^0-9]*([0-9]{1}).*$/\1/')
+
+  # Grab the last digit
+  CALIBRATION_LAST=$(echo "$ADJUSTED_LINE" | sed -r 's/^.*([0-9]{1}).*$/\1/')
+
+  # Concatinate them together
+  CALIBRATION_VALUE=$(echo "$CALIBRATION_FIRST$CALIBRATION_LAST")
+
+  # Keep a running total
+  ((CALIBRATION_TOTAL+=$CALIBRATION_VALUE))
+
+  # Show your working
+  echo "[DEBUG] calibration value for line '$line' (adjusted to '$ADJUSTED_LINE') = $CALIBRATION_FIRST concatinated with $CALIBRATION_LAST = $CALIBRATION_VALUE. The current total is $CALIBRATION_TOTAL."
+done
+
+# Show the answer
+echo The answer is $CALIBRATION_TOTAL.

@@ -1,0 +1,10 @@
+#!/bin/bash
+CALIBRATION_TOTAL=0
+for line in $(cat input)
+do
+  CALIBRATION_FIRST=$(echo "$line" | sed -r 's/^[^0-9]*([0-9]{1}).*$/\1/')
+  CALIBRATION_SECOND=$(echo "$line" | sed -r 's/^.*([0-9]{1}).*$/\1/')
+  CALIBRATION_VALUE=$(echo "$CALIBRATION_FIRST$CALIBRATION_SECOND")
+  ((CALIBRATION_TOTAL+=$CALIBRATION_VALUE))
+  echo "Calibration value for line '$line' = $CALIBRATION_FIRST concatinated with $CALIBRATION_SECOND = $CALIBRATION_VALUE. The current total is $CALIBRATION_TOTAL."
+done
