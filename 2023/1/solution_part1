@@ -1,10 +1,24 @@
 #!/bin/bash
+
 CALIBRATION_TOTAL=0
+
 for line in $(cat input)
 do
-  CALIBRATION_FIRST=$(echo "$line" | sed -r 's/^[^0-9]*([0-9]{1}).*$/\1/')
-  CALIBRATION_SECOND=$(echo "$line" | sed -r 's/^.*([0-9]{1}).*$/\1/')
+  # Grab the first digit
+  CALIBRATION_FIRST=$(echo "$ADJUSTED_LINE" | grep -E -o '[0-9]' | head -1)
+
+  # Grab the last digit
+  CALIBRATION_LAST=$(echo "$ADJUSTED_LINE" | grep -E -o '[0-9]' | tail -1)
+
+  # Concatinate them together
   CALIBRATION_VALUE=$(echo "$CALIBRATION_FIRST$CALIBRATION_SECOND")
+
+  # Keep a running total
   ((CALIBRATION_TOTAL+=$CALIBRATION_VALUE))
+
+  # Show your working
   echo "Calibration value for line '$line' = $CALIBRATION_FIRST concatinated with $CALIBRATION_SECOND = $CALIBRATION_VALUE. The current total is $CALIBRATION_TOTAL."
 done
+
+# Show the answer
+echo The answer is $CALIBRATION_TOTAL.
