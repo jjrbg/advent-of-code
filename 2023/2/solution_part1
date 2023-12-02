@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+
+declare -A LIMIT=(["red"]=12 ["green"]=13 ["blue"]=14)
+
+while read LINE
+do
+  GAME_NUMBER=$(echo "$LINE" | sed -r 's/^Game ([0-9]+):.*$/\1/')
+  GAME[$GAME_NUMBER]="${LINE#*: }"
+  while IFS=';' read -a GO
+  do
+    for g in "${GO[@]}"
+    do
+      while IFS=',' read -a CUBE
+      do
+        for c in "${CUBE[@]}"
+        do
+          while IFS=' ' read NUMBER COLOUR
+          do
+            if [ $NUMBER -gt ${LIMIT["$COLOUR"]} ]
+            then
+              echo "Game $GAME_NUMBER was impossible as $NUMBER $COLOUR cubes were retrieved"
+              IMPOSSIBLE_GAMES+=($GAME_NUMBER)
+              break
+            fi
+          done <<< $c
+        done
+      done <<< $g
+    done
+  done <<< "${GAME[$GAME_NUMBER]}"
+  if [[ ! " ${IMPOSSIBLE_GAMES[@]} " =~ " $GAME_NUMBER " ]]; then
+    echo "Game $GAME_NUMBER was possible!"
+    ((ANSWER+=$GAME_NUMBER))
+  fi
+done < input
+echo $ANSWER

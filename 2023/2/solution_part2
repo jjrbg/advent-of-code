@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+
+while read LINE
+do
+  declare -A MAX=(["red"]=0 ["green"]=0 ["blue"]=0)
+  GAME_NUMBER=$(echo "$LINE" | sed -r 's/^Game ([0-9]+):.*$/\1/')
+  GAME[$GAME_NUMBER]="${LINE#*: }"
+  while IFS=';' read -a GO
+  do
+    for g in "${GO[@]}"
+    do
+      while IFS=',' read -a CUBE
+      do
+        for c in "${CUBE[@]}"
+        do
+          while IFS=' ' read NUMBER COLOUR
+          do
+            if [ $NUMBER -gt ${MAX["$COLOUR"]} ]
+            then
+              MAX["$COLOUR"]=$NUMBER
+            fi
+          done <<< $c
+        done
+      done <<< $g
+    done
+  done <<< "${GAME[$GAME_NUMBER]}"
+  POWER=$((${MAX["red"]}*${MAX["green"]}*${MAX["blue"]}))
+  ((ANSWER+=$POWER))
+  echo "Game $GAME_NUMBER would have been possible with ${MAX["red"]} red, ${MAX["green"]} green and ${MAX["blue"]} blue cubes - giving a power of $POWER and a rolling total of $ANSWER"
+done < input
+echo $ANSWER
