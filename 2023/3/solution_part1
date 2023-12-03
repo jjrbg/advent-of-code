@@ -1,0 +1,69 @@
+#!/usr/bin/env bash
+
+declare -A GRID
+ROW=0
+ISPART=false
+
+# gets value for an x and y grid position
+function getvalue() {
+  echo "${GRID["$1 $2"]}"
+}
+
+# gets type of value for an x and y grid position - digit, oob, symbol or period
+function gettype() {
+  VALUE=$(getvalue $1 $2)
+  if [[ "$VALUE" == [[:digit:]] ]]; then echo digit
+  elif [[ "$VALUE" == "" ]]; then echo oob
+  elif [[ ! "$VALUE" == "." ]]; then echo symbol
+  else echo period
+  fi
+}
+
+# does an x and y grid position have an adjacent symbol?
+function ispart() {
+  declare -A ADJACENT
+  
+  ADJACENT+=$(gettype $(($1-1)) $(($2-1))) # top-left
+  ADJACENT+=$(gettype $(($1-1)) $2) # top-middle
+  ADJACENT+=$(gettype $(($1-1)) $(($2+1))) # top-right
+  ADJACENT+=$(gettype $1 $(($2-1))) # left
+  ADJACENT+=$(gettype $1 $(($2+1))) # right
+  ADJACENT+=$(gettype $(($1+1)) $(($2-1))) # bottom-left
+  ADJACENT+=$(gettype $(($1+1)) $2) # bottom-middle
+  ADJACENT+=$(gettype $(($1+1)) $(($2+1))) # bottom-right
+  
+  if [[ "${ADJACENT[@]}" =~ "symbol" ]]
+  then
+    echo true
+  else
+    echo false
+  fi
+}
+
+# line by line, character by character, populate diy 2d array
+while read LINE
+do
+  for (( COL=0; COL<${#LINE}; COL++ ))
+  do
+    GRID["$ROW $COL"]="${LINE:$COL:1}"
+  done
+((ROW++))
+done < input
+
+# process the array values one by one
+for (( X=0; X<$COL; X++ ))
+do
+  for (( Y=0; Y<$ROW; Y++ ))
+  do
+    if [[ "$(gettype $X $Y)" == "digit" ]]
+    then
+      PART_NUMBER+="$(getvalue $X $Y)"
+      if [[ "$ISPART" == "false" ]] && $(ispart $X $Y); then ISPART=true; fi
+    elif [[ ! "$(gettype $X $Y)" == "digit" ]] || [[ $Y == $COL ]]
+    then
+      $ISPART && ((ANSWER+=$PART_NUMBER)) && echo "Valid part number $PART_NUMBER found on row $X, column $Y. The rolling answer sum is $ANSWER"
+      PART_NUMBER=""
+      ISPART=false
+    fi
+  done
+done
