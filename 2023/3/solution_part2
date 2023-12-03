@@ -1,0 +1,88 @@
+#!/usr/bin/env bash
+
+declare -A GRID
+ROW=0
+ISPART=false
+
+# gets value for an x and y grid position
+function getvalue() {
+  echo "${GRID["$1 $2"]}"
+}
+
+# gets type of value for an x and y grid position - digit, oob, symbol or period
+function gettype() {
+  VALUE=$(getvalue $1 $2)
+  if [[ "$VALUE" == [[:digit:]] ]]; then echo digit
+  elif [[ "$VALUE" == "" ]]; then echo oob
+  elif [[ "$VALUE" == "*" ]]; then echo gear
+  elif [[ ! "$VALUE" == "." ]]; then echo symbol
+  else echo period
+  fi
+}
+
+# gets full part number for an x and y grid position containing a digit
+function getpartnumber() {
+  TYPE=$(gettype $1 $2)
+  PART_NUMBER="$(getvalue $1 $2)"
+  i=$2
+  while [[ "$TYPE" == "digit" ]]
+  do
+    # track backwards first
+    ((i--))
+    TYPE=$(gettype $1 $i)
+    if [[ "$TYPE" == "digit" ]]; then PART_NUMBER="$(getvalue $1 $i)$PART_NUMBER"; fi
+  done
+  TYPE=$(gettype $1 $2)
+  i=$2
+  while [[ "$TYPE" == "digit" ]]
+  do
+    # track forwards next
+    ((i++))
+    TYPE=$(gettype $1 $i)
+    if [[ "$TYPE" == "digit" ]]; then PART_NUMBER="$PART_NUMBER$(getvalue $1 $i)"; fi
+  done
+
+  echo $PART_NUMBER
+}
+
+# does an x and y grid position have two adjacent digits?
+function isgear() {
+  declare -A ADJACENT
+  
+  if [[ "$(gettype $(($1-1)) $(($2-1)))" == "digit" ]] then getpartnumber $(($1-1)) $(($2-1)); fi # top-left
+  if [[ "$(gettype $(($1-1)) $2)" == "digit" ]] then getpartnumber $(($1-1)) $2; fi # top-middle
+  if [[ "$(gettype $(($1-1)) $(($2+1)))" == "digit" ]] then getpartnumber $(($1-1)) $(($2+1)); fi # top-right
+  if [[ "$(gettype $1 $(($2-1)))" == "digit" ]] then getpartnumber $1 $(($2-1)); fi # left
+  if [[ "$(gettype $1 $(($2+1)))" == "digit" ]] then getpartnumber $1 $(($2+1)); fi # right
+  if [[ "$(gettype $(($1+1)) $(($2-1)))" == "digit" ]] then getpartnumber $(($1+1)) $(($2-1)); fi # bottom-left
+  if [[ "$(gettype $(($1+1)) $2)" == "digit" ]] then getpartnumber $(($1+1)) $2; fi # bottom-middle
+  if [[ "$(gettype $(($1+1)) $(($2+1)))" == "digit" ]] then getpartnumber $(($1+1)) $(($2+1)); fi # bottom-right
+}
+
+# line by line, character by character, populate diy 2d array
+while read LINE
+do
+  for (( COL=0; COL<${#LINE}; COL++ ))
+  do
+    GRID["$ROW $COL"]="${LINE:$COL:1}"
+  done
+((ROW++))
+done < input
+
+# process the array values one by one
+for (( X=0; X<$COL; X++ ))
+do
+  for (( Y=0; Y<$ROW; Y++ ))
+  do
+    if [[ "$(gettype $X $Y)" == "gear" ]]
+    then
+      PART_NUMBERS="$(isgear $X $Y | uniq | xargs)"
+      if [[ $PART_NUMBERS =~ [[:digit:]][[:space:]][[:digit:]] ]]
+      then
+        RATIO=$(echo $PART_NUMBERS | sed 's/ / * /' | bc)
+        ((ANSWER+=$RATIO))
+        echo "Gear with two adjacent part numbers $PART_NUMBERS found on row $X, column $Y with a ratio of $RATIO. The rolling answer sum is $ANSWER"
+      fi
+    fi
+  done
+done
