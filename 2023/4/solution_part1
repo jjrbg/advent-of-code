@@ -2,13 +2,12 @@
 SCORE=0
 while read LINE
 do
-  echo [[$LINE]]
   POINTS=0
   MATCHES=()
   MATCH_COUNT=0
   while IFS='|' read A B
   do
-    A=${A/*: /}
+    A=${A/*:/}
     NUMBERS=($B)
     for NUMBER in ${NUMBERS[@]}
     do
