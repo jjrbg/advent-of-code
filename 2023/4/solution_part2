@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+
+declare -A DUPLICATES
+
+while read LINE
+do
+  MATCHES=()
+  MATCH_COUNT=0
+  while IFS='|' read A B
+  do
+    [[ $A =~ ^Card[[:space:]]+([[:digit:]]+):.*$ ]] && C=${BASH_REMATCH[1]}
+    A=${A/*:/}
+    NUMBERS=($B)
+
+    for NUMBER in ${NUMBERS[@]}
+    do
+      if [[ "$A" =~ [[:space:]]$NUMBER[[:space:]] ]]
+      then
+        MATCHES+=($NUMBER)
+        ((MATCH_COUNT++))
+      fi
+    done
+    
+    # add duplicates for adjacent cards for each match
+    for (( MATCH=1 ; MATCH<=MATCH_COUNT ; MATCH++))
+    do
+      ((DUPLICATES[$(($C+$MATCH))]+=1))
+    done
+
+    # process any duplicates of this card
+    for (( DUPLICATE=1 ; DUPLICATE<=DUPLICATES[$C] ; DUPLICATE++ ))
+    do
+        for (( MATCH=1 ; MATCH<=MATCH_COUNT ; MATCH++))
+        do
+          ((DUPLICATES[$(($C+$MATCH))]+=1))
+        done
+    done 
+    
+    [[ -z ${DUPLICATES[$C]} ]] && DUPLICATES[$C]=0
+    echo "Card $C has $MATCH_COUNT matches (${MATCHES[@]}) - There are ${DUPLICATES[$C]} duplicates of this card from previous winners"
+    ((TOTAL_DUPLICATES+=${DUPLICATES[$C]}))
+  
+  done <<< $LINE
+done < input
+
+echo "There were $C original scratchcards and $TOTAL_DUPLICATES duplicated scratchcards, giving a total of $(($C+$TOTAL_DUPLICATES))"
