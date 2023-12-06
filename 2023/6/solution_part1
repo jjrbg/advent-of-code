@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+t=(44 89 96 91)
+d=(277 1136 1890 1768)
+
+answer=1
+
+for r in {0..3}
+do
+    echo "Race $r: Time is ${t[$r]}, Distance is ${d[$r]}"
+    winning_ways=0
+    for ((charge_time = 1 ; charge_time < ${t[$r]} ; charge_time++))
+    do
+        remaining_time=$((${t[$r]}-$charge_time))
+        speed=$charge_time
+        distance_travelled=$(($speed*$remaining_time))
+        if (( $distance_travelled > ${d[$r]} ))
+        then
+            ((winning_ways++))
+            echo "$charge_time ms charge time / speed: Race time remaining is $remaining_time ms, total distance travelled of $distance_travelled - breaking record ${d[$r]}, winning way $winning_ways."
+        fi
+    done
+    ((answer=answer*winning_ways))
+    echo "There are $winning_ways ways to win race $r"
+done
+echo "The answer is $answer"

@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+
+t=44899691
+d=277113618901768
+
+    echo "Time is $t, Distance is $d"
+    for ((charge_time = 1 ; charge_time < $t ; charge_time++))
+    do
+        remaining_time=$(($t-$charge_time))
+        speed=$charge_time
+        distance_travelled=$(($speed*$remaining_time))
+        if (( $distance_travelled > $d ))
+        then
+            winning_charge_first=$charge_time
+            echo "$charge_time ms charge time / speed: Race time remaining is $remaining_time ms, total distance travelled of $distance_travelled - breaking record $d, first winning way."
+            break
+        fi
+    done
+
+    for ((charge_time = $t ; charge_time > $winning_charge_first ; charge_time--))
+    do
+        remaining_time=$(($t-$charge_time))
+        speed=$charge_time
+        distance_travelled=$(($speed*$remaining_time))
+        if (( $distance_travelled > $d ))
+        then
+            winning_charge_last=$charge_time
+            echo "$charge_time ms charge time / speed: Race time remaining is $remaining_time ms, total distance travelled of $distance_travelled - breaking record $d, last winning way."
+            break
+        fi
+    done
+
+    answer=$((winning_charge_last-winning_charge_first+1))
+    echo "The answer is $answer"
