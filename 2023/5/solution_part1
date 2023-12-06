@@ -1,0 +1,76 @@
+#!/usr/bin/env bash
+
+if [ -f "db_part1.sqlite3" ]; then rm db_part1.sqlite3; fi
+
+sqlite3 db_part1.sqlite3 <<EOF
+
+CREATE TABLE seeds (
+    seed INT,
+    soil INT,
+    fertilizer INT,
+    water INT,
+    light INT,
+    temperature INT,
+    humidity INT,
+    location INT
+);
+
+CREATE TABLE maps (
+    source TEXT,
+    destination TEXT,
+    source_start INT,
+    destination_start INT,
+    range INT
+)
+EOF
+
+while read LINE
+do
+    if [[ "$LINE" =~ ^seeds:[[:space:]](.*)$ ]]
+    then
+        read -a SEEDS <<< "${BASH_REMATCH[1]}"
+        for SEED in ${SEEDS[@]}
+        do
+            sqlite3 db_part1.sqlite3 "INSERT INTO seeds (seed) VALUES ('$SEED');"
+        done
+    elif [[ "$LINE" =~ ^([[:alpha:]]+)-to-([[:alpha:]]+)[[:space:]]map: ]]
+    then
+        SOURCE="${BASH_REMATCH[1]}"
+        DESTINATION="${BASH_REMATCH[2]}"
+    elif [[ "$LINE" =~ ^([[:digit:]]+)[[:space:]]([[:digit:]]+)[[:space:]]([[:digit:]]+)$ ]]
+    then
+        sqlite3 db_part1.sqlite3 "INSERT INTO maps VALUES ('$SOURCE','$DESTINATION','${BASH_REMATCH[2]}','${BASH_REMATCH[1]}','${BASH_REMATCH[3]}');"
+    fi
+done < input
+
+TYPES=(seed soil fertilizer water light temperature humidity location)
+for ((i=1; i<${#TYPES[@]}; i++))
+do
+    THIS="${TYPES[$i]}"
+    LAST="${TYPES[$((i-1))]}"
+    sqlite3 db_part1.sqlite3 <<EOF
+UPDATE
+  seeds
+SET
+  $THIS = map.$THIS 
+FROM
+  (
+    SELECT
+      $LAST,
+      CASE
+        WHEN destination_start+($LAST-source_start) IS NULL
+        THEN $LAST 
+        ELSE destination_start+($LAST-source_start)
+      END AS $THIS
+    FROM
+      seeds
+      LEFT OUTER JOIN maps ON source = '$LAST'
+      AND $LAST >= source_start
+      AND $LAST < (source_start+range)
+  ) AS map
+WHERE
+  map.$LAST = seeds.$LAST;
+EOF
+done
+
+echo "The nearest location is $(sqlite3 db_part1.sqlite3 'SELECT MIN(location) FROM seeds')"
