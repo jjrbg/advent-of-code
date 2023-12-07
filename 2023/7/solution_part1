@@ -15,12 +15,12 @@ while read HAND BID
 do
     declare -A CARDS=()
 
-    RANK=0
+    RANK=
     # loop through each card in the hand, counting how many of each one there are, and assigning a sortable integer rank
     for ((i=0;i<=4;i++))
     do
         ((CARDS[$(card_value ${HAND:$i:1})]+=1))
-        RANK+=$(card_value ${HAND:$i:1})
+        RANK+=.$(card_value ${HAND:$i:1})
     done
 
     PAIRS=0; TOAK=0; FoOAK=0; FiOAK=0
