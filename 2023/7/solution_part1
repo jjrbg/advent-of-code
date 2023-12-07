@@ -1,0 +1,79 @@
+#!/usr/bin/env bash
+
+# return two-digit integers and convert face card string values
+function card_value() {
+    declare -rA FACE_CARDS=(["T"]=10 ["J"]=11 ["Q"]=12 ["K"]=13 ["A"]=14)
+    if [[ ! "$1" =~ [[:digit:]] ]]
+    then
+        echo ${FACE_CARDS["$1"]}
+    else
+        echo 0$1
+    fi
+}
+
+while read HAND BID
+do
+    declare -A CARDS=()
+
+    RANK=0
+    # loop through each card in the hand, counting how many of each one there are, and assigning a sortable integer rank
+    for ((i=0;i<=4;i++))
+    do
+        ((CARDS[$(card_value ${HAND:$i:1})]+=1))
+        RANK+=$(card_value ${HAND:$i:1})
+    done
+
+    PAIRS=0; TOAK=0; FoOAK=0; FiOAK=0
+    # loop through the totals of each type of card in the hand, and set flags according to how many of the same card exist
+    for ((i=2;i<=14;i++))
+    do
+        if [[ ${CARDS[$i]} == 5 ]]
+        then
+            FiOAK=1
+        elif [[ ${CARDS[$i]} == 4 ]]
+        then
+            FoOAK=1
+        elif [[ ${CARDS[$i]} == 3 ]]
+        then
+            TOAK=1
+        elif [[ ${CARDS[$i]} == 2 ]]
+        then
+            ((PAIRS+=1))
+        fi
+    done
+
+    # process the combinations of flags to determine the type of hand, and add a prefix to the rank
+    if [[ $FiOAK -eq 1 ]]
+    then
+        RANK=7$RANK
+        echo "$RANK [$HAND] $BID 'Five of a kind'"
+    elif [[ $FoOAK -eq 1 ]]
+    then
+        RANK=6$RANK
+        echo "$RANK [$HAND] $BID 'Four of a kind'"
+    elif [[ $TOAK -eq 1 && $PAIRS -eq 0 ]]
+    then
+        RANK=5$RANK
+        echo "$RANK [$HAND] $BID 'Three of a kind'"
+    elif [[ $TOAK -eq 1 && $PAIRS -eq 1 ]]
+    then
+        RANK=4$RANK
+        echo "$RANK [$HAND] $BID 'Full house'"
+    elif [[ $TOAK -eq 0 && $PAIRS -eq 2 ]]
+    then
+        RANK=3$RANK
+        echo "$RANK [$HAND] $BID 'Two pair'"
+    elif [[ $TOAK -eq 0 && $PAIRS -eq 1 ]]
+    then
+        RANK=2$RANK
+        echo "$RANK [$HAND] $BID 'One pair'"
+    elif [[ $TOAK -eq 0 && $PAIRS -eq 0 ]]
+    then
+        RANK=1$RANK
+        echo "$RANK [$HAND] $BID 'High card'"
+    else
+        echo "$RANK [$HAND] ERROR!"
+    fi
+
+# sort the output based on the rank, prefix line numbers so the worse hand has a rank of 1 etc, calculate the winnings by multiplying the rank by the bid and maintain a rolling total 
+done < input | sort | nl | awk '{ WIN = $1 * $4 ; SUM += WIN ; print $0, "winning", WIN, "with a rolling total winning of", SUM; }'
