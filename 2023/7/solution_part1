@@ -51,14 +51,14 @@ do
     then
         RANK=6$RANK
         echo "$RANK [$HAND] $BID 'Four of a kind'"
-    elif [[ $TOAK -eq 1 && $PAIRS -eq 0 ]]
-    then
-        RANK=5$RANK
-        echo "$RANK [$HAND] $BID 'Three of a kind'"
     elif [[ $TOAK -eq 1 && $PAIRS -eq 1 ]]
     then
-        RANK=4$RANK
+        RANK=5$RANK
         echo "$RANK [$HAND] $BID 'Full house'"
+    elif [[ $TOAK -eq 1 && $PAIRS -eq 0 ]]
+    then
+        RANK=4$RANK
+        echo "$RANK [$HAND] $BID 'Three of a kind'"
     elif [[ $TOAK -eq 0 && $PAIRS -eq 2 ]]
     then
         RANK=3$RANK
