@@ -1,0 +1,1000 @@
+     1	1.02.03.07.14.12 [237AQ] 157 'High card' winning 157 with a rolling total winning of 157
+     2	1.02.03.13.04.07 [23K47] 759 'High card' winning 1518 with a rolling total winning of 1675
+     3	1.02.04.09.13.08 [249K8] 612 'High card' winning 1836 with a rolling total winning of 3511
+     4	1.02.06.04.14.07 [264A7] 341 'High card' winning 1364 with a rolling total winning of 4875
+     5	1.02.06.05.07.08 [26578] 10 'High card' winning 50 with a rolling total winning of 4925
+     6	1.02.06.09.03.14 [2693A] 800 'High card' winning 4800 with a rolling total winning of 9725
+     7	1.02.07.10.12.08 [27TQ8] 5 'High card' winning 35 with a rolling total winning of 9760
+     8	1.02.09.10.14.07 [29TA7] 347 'High card' winning 2776 with a rolling total winning of 12536
+     9	1.02.10.04.03.12 [2T43Q] 45 'High card' winning 405 with a rolling total winning of 12941
+    10	1.02.10.12.14.05 [2TQA5] 535 'High card' winning 5350 with a rolling total winning of 18291
+    11	1.02.12.08.03.10 [2Q83T] 963 'High card' winning 10593 with a rolling total winning of 28884
+    12	1.02.12.11.03.09 [2QJ39] 15 'High card' winning 180 with a rolling total winning of 29064
+    13	1.02.12.11.14.13 [2QJAK] 124 'High card' winning 1612 with a rolling total winning of 30676
+    14	1.02.13.06.12.08 [2K6Q8] 793 'High card' winning 11102 with a rolling total winning of 41778
+    15	1.03.04.05.02.13 [3452K] 452 'High card' winning 6780 with a rolling total winning of 48558
+    16	1.03.04.06.05.10 [3465T] 377 'High card' winning 6032 with a rolling total winning of 54590
+    17	1.03.05.02.12.04 [352Q4] 640 'High card' winning 10880 with a rolling total winning of 65470
+    18	1.03.05.10.12.14 [35TQA] 81 'High card' winning 1458 with a rolling total winning of 66928
+    19	1.03.06.09.04.14 [3694A] 523 'High card' winning 9937 with a rolling total winning of 76865
+    20	1.03.06.11.05.08 [36J58] 935 'High card' winning 18700 with a rolling total winning of 95565
+    21	1.03.06.14.13.10 [36AKT] 616 'High card' winning 12936 with a rolling total winning of 108501
+    22	1.03.07.14.08.05 [37A85] 142 'High card' winning 3124 with a rolling total winning of 111625
+    23	1.03.08.05.07.12 [3857Q] 520 'High card' winning 11960 with a rolling total winning of 123585
+    24	1.03.09.04.02.07 [39427] 694 'High card' winning 16656 with a rolling total winning of 140241
+    25	1.03.09.05.13.12 [395KQ] 1 'High card' winning 25 with a rolling total winning of 140266
+    26	1.03.10.07.12.04 [3T7Q4] 240 'High card' winning 6240 with a rolling total winning of 146506
+    27	1.03.11.07.08.06 [3J786] 521 'High card' winning 14067 with a rolling total winning of 160573
+    28	1.03.12.06.04.10 [3Q64T] 615 'High card' winning 17220 with a rolling total winning of 177793
+    29	1.04.03.06.14.11 [436AJ] 639 'High card' winning 18531 with a rolling total winning of 196324
+    30	1.04.07.03.06.13 [4736K] 59 'High card' winning 1770 with a rolling total winning of 198094
+    31	1.04.07.11.05.06 [47J56] 258 'High card' winning 7998 with a rolling total winning of 206092
+    32	1.04.08.03.06.11 [4836J] 588 'High card' winning 18816 with a rolling total winning of 224908
+    33	1.04.09.06.10.11 [496TJ] 571 'High card' winning 18843 with a rolling total winning of 243751
+    34	1.04.09.12.13.08 [49QK8] 853 'High card' winning 29002 with a rolling total winning of 272753
+    35	1.04.10.08.11.03 [4T8J3] 907 'High card' winning 31745 with a rolling total winning of 304498
+    36	1.04.10.09.12.11 [4T9QJ] 876 'High card' winning 31536 with a rolling total winning of 336034
+    37	1.04.11.07.14.03 [4J7A3] 884 'High card' winning 32708 with a rolling total winning of 368742
+    38	1.04.11.08.06.12 [4J86Q] 540 'High card' winning 20520 with a rolling total winning of 389262
+    39	1.04.12.08.03.05 [4Q835] 50 'High card' winning 1950 with a rolling total winning of 391212
+    40	1.04.12.14.10.03 [4QAT3] 655 'High card' winning 26200 with a rolling total winning of 417412
+    41	1.04.13.14.06.10 [4KA6T] 526 'High card' winning 21566 with a rolling total winning of 438978
+    42	1.04.14.12.09.10 [4AQ9T] 522 'High card' winning 21924 with a rolling total winning of 460902
+    43	1.05.03.04.06.02 [53462] 46 'High card' winning 1978 with a rolling total winning of 462880
+    44	1.05.03.07.06.13 [5376K] 671 'High card' winning 29524 with a rolling total winning of 492404
+    45	1.05.03.11.02.12 [53J2Q] 25 'High card' winning 1125 with a rolling total winning of 493529
+    46	1.05.04.03.08.07 [54387] 939 'High card' winning 43194 with a rolling total winning of 536723
+    47	1.05.06.04.13.11 [564KJ] 158 'High card' winning 7426 with a rolling total winning of 544149
+    48	1.05.06.10.02.08 [56T28] 752 'High card' winning 36096 with a rolling total winning of 580245
+    49	1.05.07.04.10.08 [574T8] 811 'High card' winning 39739 with a rolling total winning of 619984
+    50	1.05.07.14.12.04 [57AQ4] 880 'High card' winning 44000 with a rolling total winning of 663984
+    51	1.05.09.06.02.08 [59628] 777 'High card' winning 39627 with a rolling total winning of 703611
+    52	1.05.09.08.13.02 [598K2] 277 'High card' winning 14404 with a rolling total winning of 718015
+    53	1.05.10.07.08.13 [5T78K] 129 'High card' winning 6837 with a rolling total winning of 724852
+    54	1.05.13.04.12.09 [5K4Q9] 43 'High card' winning 2322 with a rolling total winning of 727174
+    55	1.05.13.10.06.09 [5KT69] 447 'High card' winning 24585 with a rolling total winning of 751759
+    56	1.06.03.05.08.02 [63582] 511 'High card' winning 28616 with a rolling total winning of 780375
+    57	1.06.03.07.14.10 [637AT] 109 'High card' winning 6213 with a rolling total winning of 786588
+    58	1.06.03.09.05.04 [63954] 496 'High card' winning 28768 with a rolling total winning of 815356
+    59	1.06.03.11.02.14 [63J2A] 647 'High card' winning 38173 with a rolling total winning of 853529
+    60	1.06.04.09.13.12 [649KQ] 702 'High card' winning 42120 with a rolling total winning of 895649
+    61	1.06.05.07.10.09 [657T9] 797 'High card' winning 48617 with a rolling total winning of 944266
+    62	1.06.05.10.02.11 [65T2J] 607 'High card' winning 37634 with a rolling total winning of 981900
+    63	1.06.07.03.02.04 [67324] 643 'High card' winning 40509 with a rolling total winning of 1022409
+    64	1.06.07.04.03.14 [6743A] 376 'High card' winning 24064 with a rolling total winning of 1046473
+    65	1.06.07.12.02.05 [67Q25] 374 'High card' winning 24310 with a rolling total winning of 1070783
+    66	1.06.07.14.11.04 [67AJ4] 281 'High card' winning 18546 with a rolling total winning of 1089329
+    67	1.06.08.02.14.11 [682AJ] 765 'High card' winning 51255 with a rolling total winning of 1140584
+    68	1.06.09.07.14.04 [697A4] 438 'High card' winning 29784 with a rolling total winning of 1170368
+    69	1.06.10.05.11.13 [6T5JK] 419 'High card' winning 28911 with a rolling total winning of 1199279
+    70	1.06.13.05.08.14 [6K58A] 783 'High card' winning 54810 with a rolling total winning of 1254089
+    71	1.06.13.10.07.05 [6KT75] 474 'High card' winning 33654 with a rolling total winning of 1287743
+    72	1.06.14.09.03.12 [6A93Q] 901 'High card' winning 64872 with a rolling total winning of 1352615
+    73	1.07.02.05.04.03 [72543] 487 'High card' winning 35551 with a rolling total winning of 1388166
+    74	1.07.02.08.11.12 [728JQ] 236 'High card' winning 17464 with a rolling total winning of 1405630
+    75	1.07.02.11.14.12 [72JAQ] 573 'High card' winning 42975 with a rolling total winning of 1448605
+    76	1.07.06.09.02.12 [7692Q] 516 'High card' winning 39216 with a rolling total winning of 1487821
+    77	1.07.06.12.03.09 [76Q39] 698 'High card' winning 53746 with a rolling total winning of 1541567
+    78	1.07.06.13.04.10 [76K4T] 360 'High card' winning 28080 with a rolling total winning of 1569647
+    79	1.07.08.05.06.14 [7856A] 186 'High card' winning 14694 with a rolling total winning of 1584341
+    80	1.07.09.02.03.06 [79236] 830 'High card' winning 66400 with a rolling total winning of 1650741
+    81	1.07.10.04.02.06 [7T426] 127 'High card' winning 10287 with a rolling total winning of 1661028
+    82	1.07.12.11.03.10 [7QJ3T] 319 'High card' winning 26158 with a rolling total winning of 1687186
+    83	1.07.13.12.08.10 [7KQ8T] 888 'High card' winning 73704 with a rolling total winning of 1760890
+    84	1.07.13.14.12.05 [7KAQ5] 724 'High card' winning 60816 with a rolling total winning of 1821706
+    85	1.07.14.10.09.11 [7AT9J] 354 'High card' winning 30090 with a rolling total winning of 1851796
+    86	1.08.02.07.10.09 [827T9] 583 'High card' winning 50138 with a rolling total winning of 1901934
+    87	1.08.03.14.06.04 [83A64] 653 'High card' winning 56811 with a rolling total winning of 1958745
+    88	1.08.04.07.03.14 [8473A] 627 'High card' winning 55176 with a rolling total winning of 2013921
+    89	1.08.05.03.04.13 [8534K] 693 'High card' winning 61677 with a rolling total winning of 2075598
+    90	1.08.05.04.11.09 [854J9] 348 'High card' winning 31320 with a rolling total winning of 2106918
+    91	1.08.06.14.07.04 [86A74] 723 'High card' winning 65793 with a rolling total winning of 2172711
+    92	1.08.07.05.02.04 [87524] 98 'High card' winning 9016 with a rolling total winning of 2181727
+    93	1.08.09.03.13.07 [893K7] 253 'High card' winning 23529 with a rolling total winning of 2205256
+    94	1.08.09.07.06.03 [89763] 823 'High card' winning 77362 with a rolling total winning of 2282618
+    95	1.08.09.07.11.04 [897J4] 730 'High card' winning 69350 with a rolling total winning of 2351968
+    96	1.08.13.09.11.06 [8K9J6] 160 'High card' winning 15360 with a rolling total winning of 2367328
+    97	1.08.14.03.12.13 [8A3QK] 812 'High card' winning 78764 with a rolling total winning of 2446092
+    98	1.08.14.10.06.13 [8AT6K] 382 'High card' winning 37436 with a rolling total winning of 2483528
+    99	1.09.05.03.06.13 [9536K] 630 'High card' winning 62370 with a rolling total winning of 2545898
+   100	1.09.05.07.03.13 [9573K] 674 'High card' winning 67400 with a rolling total winning of 2613298
+   101	1.09.05.08.14.13 [958AK] 230 'High card' winning 23230 with a rolling total winning of 2636528
+   102	1.09.07.03.04.05 [97345] 947 'High card' winning 96594 with a rolling total winning of 2733122
+   103	1.09.07.11.08.12 [97J8Q] 593 'High card' winning 61079 with a rolling total winning of 2794201
+   104	1.09.08.12.10.14 [98QTA] 184 'High card' winning 19136 with a rolling total winning of 2813337
+   105	1.09.10.07.08.11 [9T78J] 355 'High card' winning 37275 with a rolling total winning of 2850612
+   106	1.09.10.11.03.13 [9TJ3K] 386 'High card' winning 40916 with a rolling total winning of 2891528
+   107	1.09.11.04.06.12 [9J46Q] 786 'High card' winning 84102 with a rolling total winning of 2975630
+   108	1.09.12.05.08.14 [9Q58A] 366 'High card' winning 39528 with a rolling total winning of 3015158
+   109	1.09.14.04.02.05 [9A425] 952 'High card' winning 103768 with a rolling total winning of 3118926
+   110	1.09.14.06.02.04 [9A624] 611 'High card' winning 67210 with a rolling total winning of 3186136
+   111	1.10.02.05.13.06 [T25K6] 106 'High card' winning 11766 with a rolling total winning of 3197902
+   112	1.10.02.08.14.13 [T28AK] 706 'High card' winning 79072 with a rolling total winning of 3276974
+   113	1.10.02.09.12.08 [T29Q8] 753 'High card' winning 85089 with a rolling total winning of 3362063
+   114	1.10.03.07.08.12 [T378Q] 156 'High card' winning 17784 with a rolling total winning of 3379847
+   115	1.10.03.09.07.13 [T397K] 217 'High card' winning 24955 with a rolling total winning of 3404802
+   116	1.10.03.13.04.08 [T3K48] 288 'High card' winning 33408 with a rolling total winning of 3438210
+   117	1.10.03.13.09.05 [T3K95] 614 'High card' winning 71838 with a rolling total winning of 3510048
+   118	1.10.03.14.08.09 [T3A89] 625 'High card' winning 73750 with a rolling total winning of 3583798
+   119	1.10.04.05.12.08 [T45Q8] 306 'High card' winning 36414 with a rolling total winning of 3620212
+   120	1.10.05.13.12.08 [T5KQ8] 745 'High card' winning 89400 with a rolling total winning of 3709612
+   121	1.10.06.05.08.11 [T658J] 414 'High card' winning 50094 with a rolling total winning of 3759706
+   122	1.10.06.07.08.09 [T6789] 886 'High card' winning 108092 with a rolling total winning of 3867798
+   123	1.10.07.04.03.13 [T743K] 417 'High card' winning 51291 with a rolling total winning of 3919089
+   124	1.10.07.12.08.05 [T7Q85] 862 'High card' winning 106888 with a rolling total winning of 4025977
+   125	1.10.08.02.11.09 [T82J9] 291 'High card' winning 36375 with a rolling total winning of 4062352
+   126	1.10.09.03.04.06 [T9346] 356 'High card' winning 44856 with a rolling total winning of 4107208
+   127	1.10.11.04.08.06 [TJ486] 320 'High card' winning 40640 with a rolling total winning of 4147848
+   128	1.10.12.06.02.03 [TQ623] 427 'High card' winning 54656 with a rolling total winning of 4202504
+   129	1.10.12.09.04.13 [TQ94K] 991 'High card' winning 127839 with a rolling total winning of 4330343
+   130	1.10.13.06.12.09 [TK6Q9] 801 'High card' winning 104130 with a rolling total winning of 4434473
+   131	1.10.13.12.11.07 [TKQJ7] 678 'High card' winning 88818 with a rolling total winning of 4523291
+   132	1.10.14.11.07.13 [TAJ7K] 68 'High card' winning 8976 with a rolling total winning of 4532267
+   133	1.10.14.11.13.04 [TAJK4] 852 'High card' winning 113316 with a rolling total winning of 4645583
+   134	1.11.02.05.09.10 [J259T] 927 'High card' winning 124218 with a rolling total winning of 4769801
+   135	1.11.02.12.13.06 [J2QK6] 433 'High card' winning 58455 with a rolling total winning of 4828256
+   136	1.11.03.08.09.02 [J3892] 550 'High card' winning 74800 with a rolling total winning of 4903056
+   137	1.11.03.09.10.06 [J39T6] 669 'High card' winning 91653 with a rolling total winning of 4994709
+   138	1.11.03.09.12.05 [J39Q5] 544 'High card' winning 75072 with a rolling total winning of 5069781
+   139	1.11.06.13.08.12 [J6K8Q] 329 'High card' winning 45731 with a rolling total winning of 5115512
+   140	1.11.08.14.13.03 [J8AK3] 161 'High card' winning 22540 with a rolling total winning of 5138052
+   141	1.11.09.05.06.08 [J9568] 735 'High card' winning 103635 with a rolling total winning of 5241687
+   142	1.11.09.10.13.02 [J9TK2] 737 'High card' winning 104654 with a rolling total winning of 5346341
+   143	1.11.10.04.12.14 [JT4QA] 409 'High card' winning 58487 with a rolling total winning of 5404828
+   144	1.11.14.03.10.05 [JA3T5] 781 'High card' winning 112464 with a rolling total winning of 5517292
+   145	1.12.02.04.08.06 [Q2486] 814 'High card' winning 118030 with a rolling total winning of 5635322
+   146	1.12.02.10.14.07 [Q2TA7] 513 'High card' winning 74898 with a rolling total winning of 5710220
+   147	1.12.03.05.09.02 [Q3592] 649 'High card' winning 95403 with a rolling total winning of 5805623
+   148	1.12.03.06.04.08 [Q3648] 36 'High card' winning 5328 with a rolling total winning of 5810951
+   149	1.12.03.10.04.05 [Q3T45] 675 'High card' winning 100575 with a rolling total winning of 5911526
+   150	1.12.05.06.02.04 [Q5624] 41 'High card' winning 6150 with a rolling total winning of 5917676
+   151	1.12.06.03.05.14 [Q635A] 561 'High card' winning 84711 with a rolling total winning of 6002387
+   152	1.12.07.03.09.04 [Q7394] 517 'High card' winning 78584 with a rolling total winning of 6080971
+   153	1.12.09.06.08.05 [Q9685] 80 'High card' winning 12240 with a rolling total winning of 6093211
+   154	1.12.11.08.03.14 [QJ83A] 897 'High card' winning 138138 with a rolling total winning of 6231349
+   155	1.12.11.09.02.07 [QJ927] 154 'High card' winning 23870 with a rolling total winning of 6255219
+   156	1.12.11.13.03.02 [QJK32] 349 'High card' winning 54444 with a rolling total winning of 6309663
+   157	1.12.14.03.11.10 [QA3JT] 974 'High card' winning 152918 with a rolling total winning of 6462581
+   158	1.12.14.08.07.03 [QA873] 435 'High card' winning 68730 with a rolling total winning of 6531311
+   159	1.12.14.11.10.09 [QAJT9] 606 'High card' winning 96354 with a rolling total winning of 6627665
+   160	1.12.14.13.04.05 [QAK45] 365 'High card' winning 58400 with a rolling total winning of 6686065
+   161	1.13.02.04.05.08 [K2458] 22 'High card' winning 3542 with a rolling total winning of 6689607
+   162	1.13.02.10.05.04 [K2T54] 229 'High card' winning 37098 with a rolling total winning of 6726705
+   163	1.13.03.10.07.05 [K3T75] 368 'High card' winning 59984 with a rolling total winning of 6786689
+   164	1.13.03.10.07.11 [K3T7J] 741 'High card' winning 121524 with a rolling total winning of 6908213
+   165	1.13.04.07.08.12 [K478Q] 917 'High card' winning 151305 with a rolling total winning of 7059518
+   166	1.13.06.04.02.14 [K642A] 16 'High card' winning 2656 with a rolling total winning of 7062174
+   167	1.13.06.05.03.11 [K653J] 728 'High card' winning 121576 with a rolling total winning of 7183750
+   168	1.13.07.11.08.04 [K7J84] 128 'High card' winning 21504 with a rolling total winning of 7205254
+   169	1.13.07.14.03.11 [K7A3J] 825 'High card' winning 139425 with a rolling total winning of 7344679
+   170	1.13.08.14.04.12 [K8A4Q] 659 'High card' winning 112030 with a rolling total winning of 7456709
+   171	1.13.09.04.12.11 [K94QJ] 505 'High card' winning 86355 with a rolling total winning of 7543064
+   172	1.13.09.05.06.14 [K956A] 223 'High card' winning 38356 with a rolling total winning of 7581420
+   173	1.13.09.12.03.04 [K9Q34] 292 'High card' winning 50516 with a rolling total winning of 7631936
+   174	1.13.10.08.09.14 [KT89A] 271 'High card' winning 47154 with a rolling total winning of 7679090
+   175	1.13.11.05.08.02 [KJ582] 551 'High card' winning 96425 with a rolling total winning of 7775515
+   176	1.13.11.07.08.05 [KJ785] 668 'High card' winning 117568 with a rolling total winning of 7893083
+   177	1.13.12.04.03.06 [KQ436] 263 'High card' winning 46551 with a rolling total winning of 7939634
+   178	1.13.12.11.04.03 [KQJ43] 792 'High card' winning 140976 with a rolling total winning of 8080610
+   179	1.13.12.11.05.03 [KQJ53] 367 'High card' winning 65693 with a rolling total winning of 8146303
+   180	1.13.14.08.09.11 [KA89J] 754 'High card' winning 135720 with a rolling total winning of 8282023
+   181	1.14.02.06.03.07 [A2637] 503 'High card' winning 91043 with a rolling total winning of 8373066
+   182	1.14.02.08.04.11 [A284J] 713 'High card' winning 129766 with a rolling total winning of 8502832
+   183	1.14.02.09.05.11 [A295J] 700 'High card' winning 128100 with a rolling total winning of 8630932
+   184	1.14.02.10.11.04 [A2TJ4] 846 'High card' winning 155664 with a rolling total winning of 8786596
+   185	1.14.03.12.11.09 [A3QJ9] 688 'High card' winning 127280 with a rolling total winning of 8913876
+   186	1.14.05.03.13.04 [A53K4] 506 'High card' winning 94116 with a rolling total winning of 9007992
+   187	1.14.06.03.12.07 [A63Q7] 287 'High card' winning 53669 with a rolling total winning of 9061661
+   188	1.14.06.05.13.10 [A65KT] 410 'High card' winning 77080 with a rolling total winning of 9138741
+   189	1.14.06.07.10.12 [A67TQ] 990 'High card' winning 187110 with a rolling total winning of 9325851
+   190	1.14.06.13.03.02 [A6K32] 926 'High card' winning 175940 with a rolling total winning of 9501791
+   191	1.14.07.11.12.09 [A7JQ9] 925 'High card' winning 176675 with a rolling total winning of 9678466
+   192	1.14.08.02.11.09 [A82J9] 775 'High card' winning 148800 with a rolling total winning of 9827266
+   193	1.14.09.12.04.07 [A9Q47] 352 'High card' winning 67936 with a rolling total winning of 9895202
+   194	1.14.10.03.08.02 [AT382] 749 'High card' winning 145306 with a rolling total winning of 10040508
+   195	1.14.10.08.09.05 [AT895] 369 'High card' winning 71955 with a rolling total winning of 10112463
+   196	1.14.12.07.04.06 [AQ746] 371 'High card' winning 72716 with a rolling total winning of 10185179
+   197	1.14.12.10.05.04 [AQT54] 972 'High card' winning 191484 with a rolling total winning of 10376663
+   198	1.14.13.05.06.02 [AK562] 510 'High card' winning 100980 with a rolling total winning of 10477643
+   199	1.14.13.07.02.12 [AK72Q] 42 'High card' winning 8358 with a rolling total winning of 10486001
+   200	2.02.02.03.13.08 [223K8] 181 'One pair' winning 36200 with a rolling total winning of 10522201
+   201	2.02.03.11.05.11 [23J5J] 148 'One pair' winning 29748 with a rolling total winning of 10551949
+   202	2.02.03.14.06.02 [23A62] 266 'One pair' winning 53732 with a rolling total winning of 10605681
+   203	2.02.06.14.05.14 [26A5A] 662 'One pair' winning 134386 with a rolling total winning of 10740067
+   204	2.02.08.13.05.05 [28K55] 270 'One pair' winning 55080 with a rolling total winning of 10795147
+   205	2.02.09.14.04.09 [29A49] 486 'One pair' winning 99630 with a rolling total winning of 10894777
+   206	2.02.10.05.10.07 [2T5T7] 286 'One pair' winning 58916 with a rolling total winning of 10953693
+   207	2.02.10.10.03.07 [2TT37] 344 'One pair' winning 71208 with a rolling total winning of 11024901
+   208	2.02.10.11.02.14 [2TJ2A] 92 'One pair' winning 19136 with a rolling total winning of 11044037
+   209	2.02.11.07.02.12 [2J72Q] 847 'One pair' winning 177023 with a rolling total winning of 11221060
+   210	2.02.12.02.08.13 [2Q28K] 361 'One pair' winning 75810 with a rolling total winning of 11296870
+   211	2.02.12.02.11.13 [2Q2JK] 874 'One pair' winning 184414 with a rolling total winning of 11481284
+   212	2.02.12.06.04.04 [2Q644] 232 'One pair' winning 49184 with a rolling total winning of 11530468
+   213	2.02.12.07.02.09 [2Q729] 591 'One pair' winning 125883 with a rolling total winning of 11656351
+   214	2.02.13.02.04.12 [2K24Q] 301 'One pair' winning 64414 with a rolling total winning of 11720765
+   215	2.02.13.07.02.14 [2K72A] 468 'One pair' winning 100620 with a rolling total winning of 11821385
+   216	2.02.14.07.14.05 [2A7A5] 807 'One pair' winning 174312 with a rolling total winning of 11995697
+   217	2.03.02.12.03.11 [32Q3J] 300 'One pair' winning 65100 with a rolling total winning of 12060797
+   218	2.03.03.02.14.06 [332A6] 423 'One pair' winning 92214 with a rolling total winning of 12153011
+   219	2.03.03.10.12.05 [33TQ5] 934 'One pair' winning 204546 with a rolling total winning of 12357557
+   220	2.03.04.03.13.08 [343K8] 624 'One pair' winning 137280 with a rolling total winning of 12494837
+   221	2.03.05.05.08.11 [3558J] 908 'One pair' winning 200668 with a rolling total winning of 12695505
+   222	2.03.05.13.03.08 [35K38] 763 'One pair' winning 169386 with a rolling total winning of 12864891
+   223	2.03.07.03.02.09 [37329] 295 'One pair' winning 65785 with a rolling total winning of 12930676
+   224	2.03.08.04.10.04 [384T4] 294 'One pair' winning 65856 with a rolling total winning of 12996532
+   225	2.03.09.08.06.06 [39866] 434 'One pair' winning 97650 with a rolling total winning of 13094182
+   226	2.03.10.08.07.10 [3T87T] 218 'One pair' winning 49268 with a rolling total winning of 13143450
+   227	2.03.10.10.06.12 [3TT6Q] 107 'One pair' winning 24289 with a rolling total winning of 13167739
+   228	2.03.11.08.02.02 [3J822] 134 'One pair' winning 30552 with a rolling total winning of 13198291
+   229	2.03.12.06.03.11 [3Q63J] 224 'One pair' winning 51296 with a rolling total winning of 13249587
+   230	2.03.13.12.11.03 [3KQJ3] 482 'One pair' winning 110860 with a rolling total winning of 13360447
+   231	2.03.14.08.07.08 [3A878] 762 'One pair' winning 176022 with a rolling total winning of 13536469
+   232	2.04.02.03.12.02 [423Q2] 769 'One pair' winning 178408 with a rolling total winning of 13714877
+   233	2.04.02.10.09.02 [42T92] 732 'One pair' winning 170556 with a rolling total winning of 13885433
+   234	2.04.02.14.11.11 [42AJJ] 873 'One pair' winning 204282 with a rolling total winning of 14089715
+   235	2.04.04.05.06.12 [4456Q] 911 'One pair' winning 214085 with a rolling total winning of 14303800
+   236	2.04.04.05.13.03 [445K3] 945 'One pair' winning 223020 with a rolling total winning of 14526820
+   237	2.04.04.10.02.09 [44T29] 892 'One pair' winning 211404 with a rolling total winning of 14738224
+   238	2.04.05.08.13.13 [458KK] 350 'One pair' winning 83300 with a rolling total winning of 14821524
+   239	2.04.06.11.07.04 [46J74] 380 'One pair' winning 90820 with a rolling total winning of 14912344
+   240	2.04.07.03.04.12 [4734Q] 454 'One pair' winning 108960 with a rolling total winning of 15021304
+   241	2.04.07.08.08.06 [47886] 580 'One pair' winning 139780 with a rolling total winning of 15161084
+   242	2.04.08.02.08.05 [48285] 172 'One pair' winning 41624 with a rolling total winning of 15202708
+   243	2.04.08.05.04.03 [48543] 743 'One pair' winning 180549 with a rolling total winning of 15383257
+   244	2.04.10.10.02.12 [4TT2Q] 646 'One pair' winning 157624 with a rolling total winning of 15540881
+   245	2.04.11.02.05.02 [4J252] 954 'One pair' winning 233730 with a rolling total winning of 15774611
+   246	2.04.11.05.05.07 [4J557] 975 'One pair' winning 239850 with a rolling total winning of 16014461
+   247	2.04.11.06.08.06 [4J686] 421 'One pair' winning 103987 with a rolling total winning of 16118448
+   248	2.04.12.11.02.04 [4QJ24] 331 'One pair' winning 82088 with a rolling total winning of 16200536
+   249	2.04.13.04.03.14 [4K43A] 455 'One pair' winning 113295 with a rolling total winning of 16313831
+   250	2.04.13.09.04.02 [4K942] 652 'One pair' winning 163000 with a rolling total winning of 16476831
+   251	2.04.13.13.07.06 [4KK76] 358 'One pair' winning 89858 with a rolling total winning of 16566689
+   252	2.05.04.05.06.11 [5456J] 87 'One pair' winning 21924 with a rolling total winning of 16588613
+   253	2.05.04.10.11.04 [54TJ4] 479 'One pair' winning 121187 with a rolling total winning of 16709800
+   254	2.05.05.02.12.04 [552Q4] 246 'One pair' winning 62484 with a rolling total winning of 16772284
+   255	2.05.06.10.13.13 [56TKK] 343 'One pair' winning 87465 with a rolling total winning of 16859749
+   256	2.05.07.08.06.06 [57866] 537 'One pair' winning 137472 with a rolling total winning of 16997221
+   257	2.05.07.14.07.03 [57A73] 861 'One pair' winning 221277 with a rolling total winning of 17218498
+   258	2.05.08.04.13.04 [584K4] 896 'One pair' winning 231168 with a rolling total winning of 17449666
+   259	2.05.09.05.11.03 [595J3] 180 'One pair' winning 46620 with a rolling total winning of 17496286
+   260	2.05.11.08.06.06 [5J866] 132 'One pair' winning 34320 with a rolling total winning of 17530606
+   261	2.05.11.11.13.12 [5JJKQ] 390 'One pair' winning 101790 with a rolling total winning of 17632396
+   262	2.05.11.13.13.09 [5JKK9] 816 'One pair' winning 213792 with a rolling total winning of 17846188
+   263	2.05.12.06.11.12 [5Q6JQ] 330 'One pair' winning 86790 with a rolling total winning of 17932978
+   264	2.05.12.08.11.12 [5Q8JQ] 833 'One pair' winning 219912 with a rolling total winning of 18152890
+   265	2.05.13.13.06.08 [5KK68] 234 'One pair' winning 62010 with a rolling total winning of 18214900
+   266	2.05.13.14.11.11 [5KAJJ] 707 'One pair' winning 188062 with a rolling total winning of 18402962
+   267	2.06.03.07.06.11 [6376J] 576 'One pair' winning 153792 with a rolling total winning of 18556754
+   268	2.06.05.02.06.08 [65268] 225 'One pair' winning 60300 with a rolling total winning of 18617054
+   269	2.06.05.05.14.03 [655A3] 536 'One pair' winning 144184 with a rolling total winning of 18761238
+   270	2.06.05.10.06.09 [65T69] 370 'One pair' winning 99900 with a rolling total winning of 18861138
+   271	2.06.07.02.02.08 [67228] 453 'One pair' winning 122763 with a rolling total winning of 18983901
+   272	2.06.07.07.13.05 [677K5] 879 'One pair' winning 239088 with a rolling total winning of 19222989
+   273	2.06.08.03.06.05 [68365] 76 'One pair' winning 20748 with a rolling total winning of 19243737
+   274	2.06.08.07.11.08 [687J8] 637 'One pair' winning 174538 with a rolling total winning of 19418275
+   275	2.06.09.03.05.03 [69353] 581 'One pair' winning 159775 with a rolling total winning of 19578050
+   276	2.06.09.11.12.06 [69JQ6] 328 'One pair' winning 90528 with a rolling total winning of 19668578
+   277	2.06.10.02.06.12 [6T26Q] 795 'One pair' winning 220215 with a rolling total winning of 19888793
+   278	2.06.10.03.06.11 [6T36J] 983 'One pair' winning 273274 with a rolling total winning of 20162067
+   279	2.06.10.06.14.13 [6T6AK] 589 'One pair' winning 164331 with a rolling total winning of 20326398
+   280	2.06.11.06.13.14 [6J6KA] 250 'One pair' winning 70000 with a rolling total winning of 20396398
+   281	2.06.11.09.14.06 [6J9A6] 661 'One pair' winning 185741 with a rolling total winning of 20582139
+   282	2.06.11.13.02.02 [6JK22] 889 'One pair' winning 250698 with a rolling total winning of 20832837
+   283	2.06.12.12.13.05 [6QQK5] 993 'One pair' winning 281019 with a rolling total winning of 21113856
+   284	2.06.12.13.14.06 [6QKA6] 635 'One pair' winning 180340 with a rolling total winning of 21294196
+   285	2.06.13.09.06.11 [6K96J] 418 'One pair' winning 119130 with a rolling total winning of 21413326
+   286	2.07.02.03.14.03 [723A3] 509 'One pair' winning 145574 with a rolling total winning of 21558900
+   287	2.07.02.07.10.11 [727TJ] 75 'One pair' winning 21525 with a rolling total winning of 21580425
+   288	2.07.02.08.09.09 [72899] 193 'One pair' winning 55584 with a rolling total winning of 21636009
+   289	2.07.02.14.12.07 [72AQ7] 308 'One pair' winning 89012 with a rolling total winning of 21725021
+   290	2.07.03.14.06.03 [73A63] 994 'One pair' winning 288260 with a rolling total winning of 22013281
+   291	2.07.04.10.04.08 [74T48] 248 'One pair' winning 72168 with a rolling total winning of 22085449
+   292	2.07.05.11.03.11 [75J3J] 923 'One pair' winning 269516 with a rolling total winning of 22354965
+   293	2.07.05.13.07.11 [75K7J] 393 'One pair' winning 115149 with a rolling total winning of 22470114
+   294	2.07.06.09.06.13 [7696K] 882 'One pair' winning 259308 with a rolling total winning of 22729422
+   295	2.07.07.11.14.10 [77JAT] 215 'One pair' winning 63425 with a rolling total winning of 22792847
+   296	2.07.07.12.03.08 [77Q38] 269 'One pair' winning 79624 with a rolling total winning of 22872471
+   297	2.07.07.12.06.09 [77Q69] 740 'One pair' winning 219780 with a rolling total winning of 23092251
+   298	2.07.08.07.13.02 [787K2] 436 'One pair' winning 129928 with a rolling total winning of 23222179
+   299	2.07.09.02.09.10 [7929T] 317 'One pair' winning 94783 with a rolling total winning of 23316962
+   300	2.07.09.05.05.04 [79554] 767 'One pair' winning 230100 with a rolling total winning of 23547062
+   301	2.07.10.12.07.08 [7TQ78] 214 'One pair' winning 64414 with a rolling total winning of 23611476
+   302	2.07.11.09.02.07 [7J927] 904 'One pair' winning 273008 with a rolling total winning of 23884484
+   303	2.07.11.12.09.11 [7JQ9J] 62 'One pair' winning 18786 with a rolling total winning of 23903270
+   304	2.07.11.12.12.06 [7JQQ6] 664 'One pair' winning 201856 with a rolling total winning of 24105126
+   305	2.07.11.14.07.03 [7JA73] 221 'One pair' winning 67405 with a rolling total winning of 24172531
+   306	2.07.12.05.11.11 [7Q5JJ] 209 'One pair' winning 63954 with a rolling total winning of 24236485
+   307	2.07.14.08.08.02 [7A882] 111 'One pair' winning 34077 with a rolling total winning of 24270562
+   308	2.08.03.03.06.02 [83362] 872 'One pair' winning 268576 with a rolling total winning of 24539138
+   309	2.08.03.05.05.10 [8355T] 378 'One pair' winning 116802 with a rolling total winning of 24655940
+   310	2.08.06.04.14.08 [864A8] 405 'One pair' winning 125550 with a rolling total winning of 24781490
+   311	2.08.06.11.13.06 [86JK6] 431 'One pair' winning 134041 with a rolling total winning of 24915531
+   312	2.08.08.12.07.04 [88Q74] 854 'One pair' winning 266448 with a rolling total winning of 25181979
+   313	2.08.08.12.11.03 [88QJ3] 237 'One pair' winning 74181 with a rolling total winning of 25256160
+   314	2.08.09.04.09.11 [8949J] 462 'One pair' winning 145068 with a rolling total winning of 25401228
+   315	2.08.09.08.06.12 [8986Q] 905 'One pair' winning 285075 with a rolling total winning of 25686303
+   316	2.08.10.04.06.08 [8T468] 203 'One pair' winning 64148 with a rolling total winning of 25750451
+   317	2.08.10.09.10.11 [8T9TJ] 602 'One pair' winning 190834 with a rolling total winning of 25941285
+   318	2.08.11.06.11.10 [8J6JT] 21 'One pair' winning 6678 with a rolling total winning of 25947963
+   319	2.08.11.07.09.08 [8J798] 191 'One pair' winning 60929 with a rolling total winning of 26008892
+   320	2.08.11.09.13.08 [8J9K8] 459 'One pair' winning 146880 with a rolling total winning of 26155772
+   321	2.08.13.04.11.04 [8K4J4] 780 'One pair' winning 250380 with a rolling total winning of 26406152
+   322	2.08.13.10.09.08 [8KT98] 868 'One pair' winning 279496 with a rolling total winning of 26685648
+   323	2.08.13.10.13.06 [8KTK6] 396 'One pair' winning 127908 with a rolling total winning of 26813556
+   324	2.08.14.02.04.04 [8A244] 828 'One pair' winning 268272 with a rolling total winning of 27081828
+   325	2.08.14.08.10.07 [8A8T7] 14 'One pair' winning 4550 with a rolling total winning of 27086378
+   326	2.09.02.02.10.14 [922TA] 495 'One pair' winning 161370 with a rolling total winning of 27247748
+   327	2.09.03.06.03.13 [9363K] 988 'One pair' winning 323076 with a rolling total winning of 27570824
+   328	2.09.04.08.04.11 [9484J] 212 'One pair' winning 69536 with a rolling total winning of 27640360
+   329	2.09.04.11.03.04 [94J34] 929 'One pair' winning 305641 with a rolling total winning of 27946001
+   330	2.09.06.03.06.13 [9636K] 560 'One pair' winning 184800 with a rolling total winning of 28130801
+   331	2.09.06.09.11.02 [969J2] 787 'One pair' winning 260497 with a rolling total winning of 28391298
+   332	2.09.06.10.11.06 [96TJ6] 130 'One pair' winning 43160 with a rolling total winning of 28434458
+   333	2.09.07.03.09.14 [9739A] 689 'One pair' winning 229437 with a rolling total winning of 28663895
+   334	2.09.08.03.08.06 [98386] 791 'One pair' winning 264194 with a rolling total winning of 28928089
+   335	2.09.08.06.02.08 [98628] 619 'One pair' winning 207365 with a rolling total winning of 29135454
+   336	2.09.10.02.11.10 [9T2JT] 489 'One pair' winning 164304 with a rolling total winning of 29299758
+   337	2.09.10.11.10.05 [9TJT5] 335 'One pair' winning 112895 with a rolling total winning of 29412653
+   338	2.09.10.11.10.14 [9TJTA] 738 'One pair' winning 249444 with a rolling total winning of 29662097
+   339	2.09.11.05.05.13 [9J55K] 772 'One pair' winning 261708 with a rolling total winning of 29923805
+   340	2.09.11.12.07.12 [9JQ7Q] 403 'One pair' winning 137020 with a rolling total winning of 30060825
+   341	2.09.12.11.05.12 [9QJ5Q] 768 'One pair' winning 261888 with a rolling total winning of 30322713
+   342	2.09.14.04.11.11 [9A4JJ] 168 'One pair' winning 57456 with a rolling total winning of 30380169
+   343	2.09.14.05.11.05 [9A5J5] 843 'One pair' winning 289149 with a rolling total winning of 30669318
+   344	2.10.03.04.06.10 [T346T] 920 'One pair' winning 316480 with a rolling total winning of 30985798
+   345	2.10.03.11.10.04 [T3JT4] 494 'One pair' winning 170430 with a rolling total winning of 31156228
+   346	2.10.07.07.04.02 [T7742] 967 'One pair' winning 334582 with a rolling total winning of 31490810
+   347	2.10.08.08.11.07 [T88J7] 480 'One pair' winning 166560 with a rolling total winning of 31657370
+   348	2.10.08.09.11.11 [T89JJ] 938 'One pair' winning 326424 with a rolling total winning of 31983794
+   349	2.10.08.14.02.10 [T8A2T] 65 'One pair' winning 22685 with a rolling total winning of 32006479
+   350	2.10.10.04.07.08 [TT478] 138 'One pair' winning 48300 with a rolling total winning of 32054779
+   351	2.10.11.11.06.02 [TJJ62] 82 'One pair' winning 28782 with a rolling total winning of 32083561
+   352	2.10.12.10.02.05 [TQT25] 85 'One pair' winning 29920 with a rolling total winning of 32113481
+   353	2.10.12.14.06.10 [TQA6T] 293 'One pair' winning 103429 with a rolling total winning of 32216910
+   354	2.10.13.13.08.02 [TKK82] 658 'One pair' winning 232932 with a rolling total winning of 32449842
+   355	2.10.14.03.11.03 [TA3J3] 601 'One pair' winning 213355 with a rolling total winning of 32663197
+   356	2.10.14.13.05.14 [TAK5A] 827 'One pair' winning 294412 with a rolling total winning of 32957609
+   357	2.11.02.09.10.11 [J29TJ] 147 'One pair' winning 52479 with a rolling total winning of 33010088
+   358	2.11.02.10.11.12 [J2TJQ] 84 'One pair' winning 30072 with a rolling total winning of 33040160
+   359	2.11.02.14.12.11 [J2AQJ] 100 'One pair' winning 35900 with a rolling total winning of 33076060
+   360	2.11.03.14.06.03 [J3A63] 819 'One pair' winning 294840 with a rolling total winning of 33370900
+   361	2.11.04.03.02.04 [J4324] 175 'One pair' winning 63175 with a rolling total winning of 33434075
+   362	2.11.04.04.08.14 [J448A] 903 'One pair' winning 326886 with a rolling total winning of 33760961
+   363	2.11.04.06.06.07 [J4667] 829 'One pair' winning 300927 with a rolling total winning of 34061888
+   364	2.11.04.09.14.14 [J49AA] 709 'One pair' winning 258076 with a rolling total winning of 34319964
+   365	2.11.04.14.14.07 [J4AA7] 996 'One pair' winning 363540 with a rolling total winning of 34683504
+   366	2.11.05.09.02.05 [J5925] 650 'One pair' winning 237900 with a rolling total winning of 34921404
+   367	2.11.07.06.06.13 [J766K] 887 'One pair' winning 325529 with a rolling total winning of 35246933
+   368	2.11.07.13.14.14 [J7KAA] 394 'One pair' winning 144992 with a rolling total winning of 35391925
+   369	2.11.08.06.06.09 [J8669] 504 'One pair' winning 185976 with a rolling total winning of 35577901
+   370	2.11.08.06.08.13 [J868K] 804 'One pair' winning 297480 with a rolling total winning of 35875381
+   371	2.11.08.09.08.12 [J898Q] 26 'One pair' winning 9646 with a rolling total winning of 35885027
+   372	2.11.10.03.11.08 [JT3J8] 692 'One pair' winning 257424 with a rolling total winning of 36142451
+   373	2.11.10.07.05.07 [JT757] 596 'One pair' winning 222308 with a rolling total winning of 36364759
+   374	2.11.11.03.02.14 [JJ32A] 222 'One pair' winning 83028 with a rolling total winning of 36447787
+   375	2.11.11.12.02.03 [JJQ23] 651 'One pair' winning 244125 with a rolling total winning of 36691912
+   376	2.11.12.06.04.11 [JQ64J] 806 'One pair' winning 303056 with a rolling total winning of 36994968
+   377	2.11.12.08.12.03 [JQ8Q3] 78 'One pair' winning 29406 with a rolling total winning of 37024374
+   378	2.11.12.09.02.12 [JQ92Q] 152 'One pair' winning 57456 with a rolling total winning of 37081830
+   379	2.11.12.13.02.12 [JQK2Q] 546 'One pair' winning 206934 with a rolling total winning of 37288764
+   380	2.11.13.08.03.03 [JK833] 600 'One pair' winning 228000 with a rolling total winning of 37516764
+   381	2.11.13.13.07.03 [JKK73] 855 'One pair' winning 325755 with a rolling total winning of 37842519
+   382	2.11.14.05.12.05 [JA5Q5] 986 'One pair' winning 376652 with a rolling total winning of 38219171
+   383	2.11.14.08.08.04 [JA884] 411 'One pair' winning 157413 with a rolling total winning of 38376584
+   384	2.12.02.03.14.03 [Q23A3] 27 'One pair' winning 10368 with a rolling total winning of 38386952
+   385	2.12.02.12.10.05 [Q2QT5] 24 'One pair' winning 9240 with a rolling total winning of 38396192
+   386	2.12.03.03.07.09 [Q3379] 113 'One pair' winning 43618 with a rolling total winning of 38439810
+   387	2.12.04.11.12.13 [Q4JQK] 123 'One pair' winning 47601 with a rolling total winning of 38487411
+   388	2.12.05.13.02.02 [Q5K22] 20 'One pair' winning 7760 with a rolling total winning of 38495171
+   389	2.12.05.14.14.09 [Q5AA9] 428 'One pair' winning 166492 with a rolling total winning of 38661663
+   390	2.12.06.06.04.11 [Q664J] 17 'One pair' winning 6630 with a rolling total winning of 38668293
+   391	2.12.08.04.06.12 [Q846Q] 441 'One pair' winning 172431 with a rolling total winning of 38840724
+   392	2.12.08.09.14.14 [Q89AA] 105 'One pair' winning 41160 with a rolling total winning of 38881884
+   393	2.12.09.04.14.09 [Q94A9] 210 'One pair' winning 82530 with a rolling total winning of 38964414
+   394	2.12.09.06.11.11 [Q96JJ] 12 'One pair' winning 4728 with a rolling total winning of 38969142
+   395	2.12.11.06.03.12 [QJ63Q] 895 'One pair' winning 353525 with a rolling total winning of 39322667
+   396	2.12.11.07.12.02 [QJ7Q2] 789 'One pair' winning 312444 with a rolling total winning of 39635111
+   397	2.12.12.03.13.07 [QQ3K7] 742 'One pair' winning 294574 with a rolling total winning of 39929685
+   398	2.12.13.10.10.03 [QKTT3] 718 'One pair' winning 285764 with a rolling total winning of 40215449
+   399	2.12.14.03.06.12 [QA36Q] 502 'One pair' winning 200298 with a rolling total winning of 40415747
+   400	2.12.14.05.12.06 [QA5Q6] 429 'One pair' winning 171600 with a rolling total winning of 40587347
+   401	2.13.03.13.09.02 [K3K92] 457 'One pair' winning 183257 with a rolling total winning of 40770604
+   402	2.13.04.04.05.07 [K4457] 924 'One pair' winning 371448 with a rolling total winning of 41142052
+   403	2.13.04.11.09.09 [K4J99] 63 'One pair' winning 25389 with a rolling total winning of 41167441
+   404	2.13.05.06.14.14 [K56AA] 323 'One pair' winning 130492 with a rolling total winning of 41297933
+   405	2.13.08.05.08.04 [K8584] 803 'One pair' winning 325215 with a rolling total winning of 41623148
+   406	2.13.10.06.07.13 [KT67K] 989 'One pair' winning 401534 with a rolling total winning of 42024682
+   407	2.13.10.09.07.13 [KT97K] 708 'One pair' winning 288156 with a rolling total winning of 42312838
+   408	2.13.10.13.09.05 [KTK95] 307 'One pair' winning 125256 with a rolling total winning of 42438094
+   409	2.13.10.13.14.11 [KTKAJ] 220 'One pair' winning 89980 with a rolling total winning of 42528074
+   410	2.13.11.02.14.13 [KJ2AK] 493 'One pair' winning 202130 with a rolling total winning of 42730204
+   411	2.13.11.09.05.11 [KJ95J] 849 'One pair' winning 348939 with a rolling total winning of 43079143
+   412	2.13.11.10.13.07 [KJTK7] 648 'One pair' winning 266976 with a rolling total winning of 43346119
+   413	2.13.13.07.02.06 [KK726] 839 'One pair' winning 346507 with a rolling total winning of 43692626
+   414	2.13.13.10.07.02 [KKT72] 890 'One pair' winning 368460 with a rolling total winning of 44061086
+   415	2.13.14.02.11.02 [KA2J2] 534 'One pair' winning 221610 with a rolling total winning of 44282696
+   416	2.13.14.07.07.02 [KA772] 701 'One pair' winning 291616 with a rolling total winning of 44574312
+   417	2.13.14.14.10.11 [KAATJ] 118 'One pair' winning 49206 with a rolling total winning of 44623518
+   418	2.14.02.03.03.10 [A233T] 633 'One pair' winning 264594 with a rolling total winning of 44888112
+   419	2.14.02.07.09.07 [A2797] 383 'One pair' winning 160477 with a rolling total winning of 45048589
+   420	2.14.03.03.13.12 [A33KQ] 119 'One pair' winning 49980 with a rolling total winning of 45098569
+   421	2.14.04.04.05.02 [A4452] 420 'One pair' winning 176820 with a rolling total winning of 45275389
+   422	2.14.04.11.14.06 [A4JA6] 460 'One pair' winning 194120 with a rolling total winning of 45469509
+   423	2.14.04.14.08.13 [A4A8K] 83 'One pair' winning 35109 with a rolling total winning of 45504618
+   424	2.14.05.10.05.13 [A5T5K] 6 'One pair' winning 2544 with a rolling total winning of 45507162
+   425	2.14.08.08.11.09 [A88J9] 552 'One pair' winning 234600 with a rolling total winning of 45741762
+   426	2.14.08.11.14.10 [A8JAT] 456 'One pair' winning 194256 with a rolling total winning of 45936018
+   427	2.14.09.12.09.02 [A9Q92] 697 'One pair' winning 297619 with a rolling total winning of 46233637
+   428	2.14.11.11.09.06 [AJJ96] 398 'One pair' winning 170344 with a rolling total winning of 46403981
+   429	2.14.11.14.04.02 [AJA42] 980 'One pair' winning 420420 with a rolling total winning of 46824401
+   430	2.14.13.04.08.04 [AK484] 953 'One pair' winning 409790 with a rolling total winning of 47234191
+   431	2.14.13.07.06.13 [AK76K] 255 'One pair' winning 109905 with a rolling total winning of 47344096
+   432	2.14.14.05.03.08 [AA538] 252 'One pair' winning 108864 with a rolling total winning of 47452960
+   433	2.14.14.11.06.08 [AAJ68] 379 'One pair' winning 164107 with a rolling total winning of 47617067
+   434	3.02.02.03.04.04 [22344] 201 'Two pair' winning 87234 with a rolling total winning of 47704301
+   435	3.02.02.07.07.09 [22779] 913 'Two pair' winning 397155 with a rolling total winning of 48101456
+   436	3.02.02.08.03.08 [22838] 638 'Two pair' winning 278168 with a rolling total winning of 48379624
+   437	3.02.02.08.08.04 [22884] 316 'Two pair' winning 138092 with a rolling total winning of 48517716
+   438	3.02.02.14.14.09 [22AA9] 959 'Two pair' winning 420042 with a rolling total winning of 48937758
+   439	3.02.03.02.07.07 [23277] 733 'Two pair' winning 321787 with a rolling total winning of 49259545
+   440	3.02.05.10.05.02 [25T52] 450 'Two pair' winning 198000 with a rolling total winning of 49457545
+   441	3.02.06.02.06.09 [26269] 902 'Two pair' winning 397782 with a rolling total winning of 49855327
+   442	3.02.07.02.06.07 [27267] 644 'Two pair' winning 284648 with a rolling total winning of 50139975
+   443	3.02.08.06.08.02 [28682] 332 'Two pair' winning 147076 with a rolling total winning of 50287051
+   444	3.02.09.12.09.02 [29Q92] 788 'Two pair' winning 349872 with a rolling total winning of 50636923
+   445	3.02.10.10.07.07 [2TT77] 464 'Two pair' winning 206480 with a rolling total winning of 50843403
+   446	3.02.11.02.03.03 [2J233] 430 'Two pair' winning 191780 with a rolling total winning of 51035183
+   447	3.02.11.05.11.02 [2J5J2] 964 'Two pair' winning 430908 with a rolling total winning of 51466091
+   448	3.02.11.08.08.11 [2J88J] 275 'Two pair' winning 123200 with a rolling total winning of 51589291
+   449	3.02.12.13.12.02 [2QKQ2] 108 'Two pair' winning 48492 with a rolling total winning of 51637783
+   450	3.02.14.12.02.14 [2AQ2A] 628 'Two pair' winning 282600 with a rolling total winning of 51920383
+   451	3.03.02.02.03.07 [32237] 164 'Two pair' winning 73964 with a rolling total winning of 51994347
+   452	3.03.02.03.02.10 [3232T] 912 'Two pair' winning 412224 with a rolling total winning of 52406571
+   453	3.03.03.07.09.09 [33799] 71 'Two pair' winning 32163 with a rolling total winning of 52438734
+   454	3.03.03.13.14.13 [33KAK] 645 'Two pair' winning 292830 with a rolling total winning of 52731564
+   455	3.03.04.03.04.13 [3434K] 216 'Two pair' winning 98280 with a rolling total winning of 52829844
+   456	3.03.09.03.11.09 [393J9] 74 'Two pair' winning 33744 with a rolling total winning of 52863588
+   457	3.03.14.03.09.14 [3A39A] 587 'Two pair' winning 268259 with a rolling total winning of 53131847
+   458	3.03.14.08.08.03 [3A883] 346 'Two pair' winning 158468 with a rolling total winning of 53290315
+   459	3.03.14.11.14.03 [3AJA3] 687 'Two pair' winning 315333 with a rolling total winning of 53605648
+   460	3.04.04.02.02.09 [44229] 848 'Two pair' winning 390080 with a rolling total winning of 53995728
+   461	3.04.04.11.07.07 [44J77] 38 'Two pair' winning 17518 with a rolling total winning of 54013246
+   462	3.04.04.12.10.10 [44QTT] 73 'Two pair' winning 33726 with a rolling total winning of 54046972
+   463	3.04.06.04.12.06 [464Q6] 268 'Two pair' winning 124084 with a rolling total winning of 54171056
+   464	3.04.08.03.03.04 [48334] 748 'Two pair' winning 347072 with a rolling total winning of 54518128
+   465	3.04.08.04.11.08 [484J8] 750 'Two pair' winning 348750 with a rolling total winning of 54866878
+   466	3.04.09.08.09.08 [49898] 746 'Two pair' winning 347636 with a rolling total winning of 55214514
+   467	3.04.10.04.09.10 [4T49T] 756 'Two pair' winning 353052 with a rolling total winning of 55567566
+   468	3.04.12.04.03.12 [4Q43Q] 48 'Two pair' winning 22464 with a rolling total winning of 55590030
+   469	3.04.13.13.04.11 [4KK4J] 96 'Two pair' winning 45024 with a rolling total winning of 55635054
+   470	3.04.14.14.07.04 [4AA74] 860 'Two pair' winning 404200 with a rolling total winning of 56039254
+   471	3.04.14.14.12.04 [4AAQ4] 532 'Two pair' winning 250572 with a rolling total winning of 56289826
+   472	3.05.02.04.05.04 [52454] 211 'Two pair' winning 99592 with a rolling total winning of 56389418
+   473	3.05.02.06.06.05 [52665] 798 'Two pair' winning 377454 with a rolling total winning of 56766872
+   474	3.05.04.13.13.05 [54KK5] 621 'Two pair' winning 294354 with a rolling total winning of 57061226
+   475	3.05.05.07.07.09 [55779] 302 'Two pair' winning 143450 with a rolling total winning of 57204676
+   476	3.05.05.08.08.11 [5588J] 632 'Two pair' winning 300832 with a rolling total winning of 57505508
+   477	3.05.05.10.11.10 [55TJT] 985 'Two pair' winning 469845 with a rolling total winning of 57975353
+   478	3.05.06.10.10.06 [56TT6] 478 'Two pair' winning 228484 with a rolling total winning of 58203837
+   479	3.05.07.11.11.07 [57JJ7] 721 'Two pair' winning 345359 with a rolling total winning of 58549196
+   480	3.05.07.14.07.05 [57A75] 194 'Two pair' winning 93120 with a rolling total winning of 58642316
+   481	3.05.08.08.14.05 [588A5] 483 'Two pair' winning 232323 with a rolling total winning of 58874639
+   482	3.05.09.13.13.05 [59KK5] 817 'Two pair' winning 393794 with a rolling total winning of 59268433
+   483	3.05.10.10.09.09 [5TT99] 337 'Two pair' winning 162771 with a rolling total winning of 59431204
+   484	3.05.12.12.08.08 [5QQ88] 956 'Two pair' winning 462704 with a rolling total winning of 59893908
+   485	3.05.13.11.13.05 [5KJK5] 226 'Two pair' winning 109610 with a rolling total winning of 60003518
+   486	3.06.03.06.11.03 [636J3] 47 'Two pair' winning 22842 with a rolling total winning of 60026360
+   487	3.06.03.12.06.03 [63Q63] 909 'Two pair' winning 442683 with a rolling total winning of 60469043
+   488	3.06.05.05.06.08 [65568] 238 'Two pair' winning 116144 with a rolling total winning of 60585187
+   489	3.06.05.13.05.13 [65K5K] 734 'Two pair' winning 358926 with a rolling total winning of 60944113
+   490	3.06.06.02.08.02 [66282] 272 'Two pair' winning 133280 with a rolling total winning of 61077393
+   491	3.06.06.04.04.13 [6644K] 485 'Two pair' winning 238135 with a rolling total winning of 61315528
+   492	3.06.06.09.10.10 [669TT] 208 'Two pair' winning 102336 with a rolling total winning of 61417864
+   493	3.06.06.10.10.07 [66TT7] 634 'Two pair' winning 312562 with a rolling total winning of 61730426
+   494	3.06.06.12.11.12 [66QJQ] 547 'Two pair' winning 270218 with a rolling total winning of 62000644
+   495	3.06.07.14.07.14 [67A7A] 978 'Two pair' winning 484110 with a rolling total winning of 62484754
+   496	3.06.08.11.06.08 [68J68] 151 'Two pair' winning 74896 with a rolling total winning of 62559650
+   497	3.06.09.09.06.03 [69963] 86 'Two pair' winning 42742 with a rolling total winning of 62602392
+   498	3.06.11.08.06.11 [6J86J] 472 'Two pair' winning 235056 with a rolling total winning of 62837448
+   499	3.06.12.12.06.02 [6QQ62] 656 'Two pair' winning 327344 with a rolling total winning of 63164792
+   500	3.06.12.13.06.12 [6QK6Q] 284 'Two pair' winning 142000 with a rolling total winning of 63306792
+   501	3.06.14.10.10.14 [6ATTA] 279 'Two pair' winning 139779 with a rolling total winning of 63446571
+   502	3.07.03.07.06.06 [73766] 799 'Two pair' winning 401098 with a rolling total winning of 63847669
+   503	3.07.05.02.07.05 [75275] 304 'Two pair' winning 152912 with a rolling total winning of 64000581
+   504	3.07.06.11.06.07 [76J67] 95 'Two pair' winning 47880 with a rolling total winning of 64048461
+   505	3.07.07.04.14.14 [774AA] 388 'Two pair' winning 195940 with a rolling total winning of 64244401
+   506	3.07.07.06.04.06 [77646] 155 'Two pair' winning 78430 with a rolling total winning of 64322831
+   507	3.07.07.11.08.08 [77J88] 29 'Two pair' winning 14703 with a rolling total winning of 64337534
+   508	3.07.09.09.04.07 [79947] 869 'Two pair' winning 441452 with a rolling total winning of 64778986
+   509	3.07.12.12.09.07 [7QQ97] 910 'Two pair' winning 463190 with a rolling total winning of 65242176
+   510	3.07.13.07.13.14 [7K7KA] 4 'Two pair' winning 2040 with a rolling total winning of 65244216
+   511	3.07.13.13.05.05 [7KK55] 582 'Two pair' winning 297402 with a rolling total winning of 65541618
+   512	3.07.14.07.05.14 [7A75A] 192 'Two pair' winning 98304 with a rolling total winning of 65639922
+   513	3.08.02.08.02.07 [82827] 139 'Two pair' winning 71307 with a rolling total winning of 65711229
+   514	3.08.02.11.02.08 [82J28] 710 'Two pair' winning 364940 with a rolling total winning of 66076169
+   515	3.08.03.10.03.08 [83T38] 987 'Two pair' winning 508305 with a rolling total winning of 66584474
+   516	3.08.04.14.08.04 [84A84] 946 'Two pair' winning 488136 with a rolling total winning of 67072610
+   517	3.08.05.08.05.12 [8585Q] 916 'Two pair' winning 473572 with a rolling total winning of 67546182
+   518	3.08.06.08.13.13 [868KK] 325 'Two pair' winning 168350 with a rolling total winning of 67714532
+   519	3.08.06.10.06.08 [86T68] 77 'Two pair' winning 39963 with a rolling total winning of 67754495
+   520	3.08.07.07.08.12 [8778Q] 244 'Two pair' winning 126880 with a rolling total winning of 67881375
+   521	3.08.07.07.08.14 [8778A] 280 'Two pair' winning 145880 with a rolling total winning of 68027255
+   522	3.08.08.05.13.13 [885KK] 115 'Two pair' winning 60030 with a rolling total winning of 68087285
+   523	3.08.09.05.09.05 [89595] 334 'Two pair' winning 174682 with a rolling total winning of 68261967
+   524	3.08.09.09.11.08 [899J8] 467 'Two pair' winning 244708 with a rolling total winning of 68506675
+   525	3.08.09.09.12.12 [899QQ] 531 'Two pair' winning 278775 with a rolling total winning of 68785450
+   526	3.08.12.08.12.13 [8Q8QK] 878 'Two pair' winning 461828 with a rolling total winning of 69247278
+   527	3.09.02.02.12.12 [922QQ] 324 'Two pair' winning 170748 with a rolling total winning of 69418026
+   528	3.09.02.06.02.09 [92629] 893 'Two pair' winning 471504 with a rolling total winning of 69889530
+   529	3.09.03.03.06.06 [93366] 326 'Two pair' winning 172454 with a rolling total winning of 70061984
+   530	3.09.04.03.04.09 [94349] 54 'Two pair' winning 28620 with a rolling total winning of 70090604
+   531	3.09.04.04.06.09 [94469] 859 'Two pair' winning 456129 with a rolling total winning of 70546733
+   532	3.09.05.03.09.05 [95395] 891 'Two pair' winning 474012 with a rolling total winning of 71020745
+   533	3.09.05.05.12.12 [955QQ] 206 'Two pair' winning 109798 with a rolling total winning of 71130543
+   534	3.09.05.05.14.09 [955A9] 851 'Two pair' winning 454434 with a rolling total winning of 71584977
+   535	3.09.06.06.05.09 [96659] 162 'Two pair' winning 86670 with a rolling total winning of 71671647
+   536	3.09.06.06.09.04 [96694] 402 'Two pair' winning 215472 with a rolling total winning of 71887119
+   537	3.09.06.09.11.06 [969J6] 970 'Two pair' winning 520890 with a rolling total winning of 72408009
+   538	3.09.07.03.09.07 [97397] 121 'Two pair' winning 65098 with a rolling total winning of 72473107
+   539	3.09.08.09.04.04 [98944] 375 'Two pair' winning 202125 with a rolling total winning of 72675232
+   540	3.09.09.02.02.11 [9922J] 808 'Two pair' winning 436320 with a rolling total winning of 73111552
+   541	3.09.09.05.02.05 [99525] 779 'Two pair' winning 421439 with a rolling total winning of 73532991
+   542	3.09.09.07.11.07 [997J7] 727 'Two pair' winning 394034 with a rolling total winning of 73927025
+   543	3.09.09.08.03.03 [99833] 881 'Two pair' winning 478383 with a rolling total winning of 74405408
+   544	3.09.09.13.10.10 [99KTT] 736 'Two pair' winning 400384 with a rolling total winning of 74805792
+   545	3.09.11.09.10.10 [9J9TT] 729 'Two pair' winning 397305 with a rolling total winning of 75203097
+   546	3.09.13.09.07.13 [9K97K] 605 'Two pair' winning 330330 with a rolling total winning of 75533427
+   547	3.09.14.10.09.10 [9AT9T] 392 'Two pair' winning 214424 with a rolling total winning of 75747851
+   548	3.10.02.03.02.10 [T232T] 53 'Two pair' winning 29044 with a rolling total winning of 75776895
+   549	3.10.02.12.02.12 [T2Q2Q] 153 'Two pair' winning 83997 with a rolling total winning of 75860892
+   550	3.10.05.10.11.11 [T5TJJ] 944 'Two pair' winning 519200 with a rolling total winning of 76380092
+   551	3.10.06.10.06.11 [T6T6J] 465 'Two pair' winning 256215 with a rolling total winning of 76636307
+   552	3.10.10.04.11.04 [TT4J4] 198 'Two pair' winning 109296 with a rolling total winning of 76745603
+   553	3.10.10.12.07.07 [TTQ77] 256 'Two pair' winning 141568 with a rolling total winning of 76887171
+   554	3.10.11.13.13.11 [TJKKJ] 579 'Two pair' winning 320766 with a rolling total winning of 77207937
+   555	3.10.12.02.10.12 [TQ2TQ] 960 'Two pair' winning 532800 with a rolling total winning of 77740737
+   556	3.10.14.10.06.06 [TAT66] 251 'Two pair' winning 139556 with a rolling total winning of 77880293
+   557	3.11.02.04.04.02 [J2442] 575 'Two pair' winning 320275 with a rolling total winning of 78200568
+   558	3.11.04.04.05.05 [J4455] 850 'Two pair' winning 474300 with a rolling total winning of 78674868
+   559	3.11.05.03.05.03 [J5353] 836 'Two pair' winning 467324 with a rolling total winning of 79142192
+   560	3.11.05.05.14.11 [J55AJ] 363 'Two pair' winning 203280 with a rolling total winning of 79345472
+   561	3.11.06.06.05.05 [J6655] 399 'Two pair' winning 223839 with a rolling total winning of 79569311
+   562	3.11.06.06.11.13 [J66JK] 667 'Two pair' winning 374854 with a rolling total winning of 79944165
+   563	3.11.07.07.11.02 [J77J2] 686 'Two pair' winning 386218 with a rolling total winning of 80330383
+   564	3.11.07.07.11.09 [J77J9] 448 'Two pair' winning 252672 with a rolling total winning of 80583055
+   565	3.11.07.09.11.09 [J79J9] 966 'Two pair' winning 545790 with a rolling total winning of 81128845
+   566	3.11.08.09.11.08 [J89J8] 451 'Two pair' winning 255266 with a rolling total winning of 81384111
+   567	3.11.11.09.09.02 [JJ992] 185 'Two pair' winning 104895 with a rolling total winning of 81489006
+   568	3.11.11.14.14.07 [JJAA7] 654 'Two pair' winning 371472 with a rolling total winning of 81860478
+   569	3.11.12.12.13.13 [JQQKK] 715 'Two pair' winning 406835 with a rolling total winning of 82267313
+   570	3.11.12.13.12.11 [JQKQJ] 976 'Two pair' winning 556320 with a rolling total winning of 82823633
+   571	3.11.13.08.13.08 [JK8K8] 527 'Two pair' winning 300917 with a rolling total winning of 83124550
+   572	3.12.02.05.05.12 [Q255Q] 259 'Two pair' winning 148148 with a rolling total winning of 83272698
+   573	3.12.02.06.02.06 [Q2626] 554 'Two pair' winning 317442 with a rolling total winning of 83590140
+   574	3.12.02.12.11.02 [Q2QJ2] 796 'Two pair' winning 456904 with a rolling total winning of 84047044
+   575	3.12.03.02.03.02 [Q3232] 941 'Two pair' winning 541075 with a rolling total winning of 84588119
+   576	3.12.03.05.05.12 [Q355Q] 69 'Two pair' winning 39744 with a rolling total winning of 84627863
+   577	3.12.03.12.10.03 [Q3QT3] 11 'Two pair' winning 6347 with a rolling total winning of 84634210
+   578	3.12.03.12.14.14 [Q3QAA] 999 'Two pair' winning 577422 with a rolling total winning of 85211632
+   579	3.12.03.14.03.12 [Q3A3Q] 373 'Two pair' winning 215967 with a rolling total winning of 85427599
+   580	3.12.04.04.11.12 [Q44JQ] 894 'Two pair' winning 518520 with a rolling total winning of 85946119
+   581	3.12.04.04.12.10 [Q44QT] 102 'Two pair' winning 59262 with a rolling total winning of 86005381
+   582	3.12.04.13.04.13 [Q4K4K] 826 'Two pair' winning 480732 with a rolling total winning of 86486113
+   583	3.12.05.12.10.05 [Q5QT5] 169 'Two pair' winning 98527 with a rolling total winning of 86584640
+   584	3.12.06.05.06.05 [Q6565] 943 'Two pair' winning 550712 with a rolling total winning of 87135352
+   585	3.12.06.06.10.12 [Q66TQ] 37 'Two pair' winning 21645 with a rolling total winning of 87156997
+   586	3.12.06.07.06.07 [Q6767] 838 'Two pair' winning 491068 with a rolling total winning of 87648065
+   587	3.12.07.07.14.14 [Q77AA] 995 'Two pair' winning 584065 with a rolling total winning of 88232130
+   588	3.12.08.03.08.12 [Q838Q] 631 'Two pair' winning 371028 with a rolling total winning of 88603158
+   589	3.12.09.14.14.12 [Q9AAQ] 617 'Two pair' winning 363413 with a rolling total winning of 88966571
+   590	3.12.10.03.12.10 [QT3QT] 622 'Two pair' winning 366980 with a rolling total winning of 89333551
+   591	3.12.10.04.12.10 [QT4QT] 586 'Two pair' winning 346326 with a rolling total winning of 89679877
+   592	3.12.11.10.12.11 [QJTQJ] 446 'Two pair' winning 264032 with a rolling total winning of 89943909
+   593	3.12.12.02.07.07 [QQ277] 739 'Two pair' winning 438227 with a rolling total winning of 90382136
+   594	3.12.12.06.06.08 [QQ668] 841 'Two pair' winning 499554 with a rolling total winning of 90881690
+   595	3.12.12.07.08.08 [QQ788] 870 'Two pair' winning 517650 with a rolling total winning of 91399340
+   596	3.12.12.09.06.09 [QQ969] 93 'Two pair' winning 55428 with a rolling total winning of 91454768
+   597	3.12.12.11.08.08 [QQJ88] 257 'Two pair' winning 153429 with a rolling total winning of 91608197
+   598	3.13.04.04.13.09 [K44K9] 18 'Two pair' winning 10764 with a rolling total winning of 91618961
+   599	3.13.04.14.04.14 [K4A4A] 958 'Two pair' winning 573842 with a rolling total winning of 92192803
+   600	3.13.05.04.04.05 [K5445] 261 'Two pair' winning 156600 with a rolling total winning of 92349403
+   601	3.13.05.06.06.05 [K5665] 8 'Two pair' winning 4808 with a rolling total winning of 92354211
+   602	3.13.06.03.13.06 [K63K6] 397 'Two pair' winning 238994 with a rolling total winning of 92593205
+   603	3.13.06.14.13.14 [K6AKA] 712 'Two pair' winning 429336 with a rolling total winning of 93022541
+   604	3.13.08.02.02.08 [K8228] 449 'Two pair' winning 271196 with a rolling total winning of 93293737
+   605	3.13.09.08.09.13 [K989K] 345 'Two pair' winning 208725 with a rolling total winning of 93502462
+   606	3.13.10.13.06.10 [KTK6T] 760 'Two pair' winning 460560 with a rolling total winning of 93963022
+   607	3.13.11.03.13.03 [KJ3K3] 977 'Two pair' winning 593039 with a rolling total winning of 94556061
+   608	3.13.13.03.09.03 [KK393] 190 'Two pair' winning 115520 with a rolling total winning of 94671581
+   609	3.13.13.10.10.07 [KKTT7] 758 'Two pair' winning 461622 with a rolling total winning of 95133203
+   610	3.13.14.09.13.09 [KA9K9] 497 'Two pair' winning 303170 with a rolling total winning of 95436373
+   611	3.13.14.13.03.14 [KAK3A] 273 'Two pair' winning 166803 with a rolling total winning of 95603176
+   612	3.14.02.14.02.06 [A2A26] 315 'Two pair' winning 192780 with a rolling total winning of 95795956
+   613	3.14.02.14.07.02 [A2A72] 951 'Two pair' winning 582963 with a rolling total winning of 96378919
+   614	3.14.03.03.10.14 [A33TA] 406 'Two pair' winning 249284 with a rolling total winning of 96628203
+   615	3.14.05.14.10.10 [A5ATT] 670 'Two pair' winning 412050 with a rolling total winning of 97040253
+   616	3.14.05.14.13.05 [A5AK5] 539 'Two pair' winning 332024 with a rolling total winning of 97372277
+   617	3.14.07.14.07.02 [A7A72] 714 'Two pair' winning 440538 with a rolling total winning of 97812815
+   618	3.14.08.03.03.14 [A833A] 309 'Two pair' winning 190962 with a rolling total winning of 98003777
+   619	3.14.08.04.14.08 [A84A8] 610 'Two pair' winning 377590 with a rolling total winning of 98381367
+   620	3.14.08.14.10.10 [A8ATT] 514 'Two pair' winning 318680 with a rolling total winning of 98700047
+   621	3.14.12.14.03.03 [AQA33] 44 'Two pair' winning 27324 with a rolling total winning of 98727371
+   622	3.14.14.08.08.12 [AA88Q] 338 'Two pair' winning 210236 with a rolling total winning of 98937607
+   623	3.14.14.10.09.10 [AAT9T] 809 'Two pair' winning 504007 with a rolling total winning of 99441614
+   624	3.14.14.11.05.05 [AAJ55] 2 'Two pair' winning 1248 with a rolling total winning of 99442862
+   625	3.14.14.11.12.12 [AAJQQ] 666 'Two pair' winning 416250 with a rolling total winning of 99859112
+   626	3.14.14.13.11.13 [AAKJK] 597 'Two pair' winning 373722 with a rolling total winning of 100232834
+   627	3.14.14.13.13.09 [AAKK9] 481 'Two pair' winning 301587 with a rolling total winning of 100534421
+   628	4.02.02.10.02.10 [22T2T] 97 'Full house' winning 60916 with a rolling total winning of 100595337
+   629	4.02.04.02.04.04 [24244] 992 'Full house' winning 623968 with a rolling total winning of 101219305
+   630	4.02.05.05.02.02 [25522] 770 'Full house' winning 485100 with a rolling total winning of 101704405
+   631	4.02.08.02.08.02 [28282] 31 'Full house' winning 19561 with a rolling total winning of 101723966
+   632	4.02.09.09.02.02 [29922] 412 'Full house' winning 260384 with a rolling total winning of 101984350
+   633	4.02.11.11.02.02 [2JJ22] 932 'Full house' winning 589956 with a rolling total winning of 102574306
+   634	4.02.14.02.14.02 [2A2A2] 171 'Full house' winning 108414 with a rolling total winning of 102682720
+   635	4.03.03.03.11.11 [333JJ] 997 'Full house' winning 633095 with a rolling total winning of 103315815
+   636	4.03.03.03.14.14 [333AA] 167 'Full house' winning 106212 with a rolling total winning of 103422027
+   637	4.03.03.06.03.06 [33636] 310 'Full house' winning 197470 with a rolling total winning of 103619497
+   638	4.03.03.08.08.08 [33888] 311 'Full house' winning 198418 with a rolling total winning of 103817915
+   639	4.03.03.09.03.09 [33939] 822 'Full house' winning 525258 with a rolling total winning of 104343173
+   640	4.03.03.10.10.10 [33TTT] 353 'Full house' winning 225920 with a rolling total winning of 104569093
+   641	4.03.03.12.03.12 [33Q3Q] 641 'Full house' winning 410881 with a rolling total winning of 104979974
+   642	4.03.04.04.03.03 [34433] 39 'Full house' winning 25038 with a rolling total winning of 105005012
+   643	4.03.05.03.05.03 [35353] 618 'Full house' winning 397374 with a rolling total winning of 105402386
+   644	4.03.06.06.06.03 [36663] 815 'Full house' winning 524860 with a rolling total winning of 105927246
+   645	4.03.09.03.09.09 [39399] 928 'Full house' winning 598560 with a rolling total winning of 106525806
+   646	4.04.04.04.03.03 [44433] 922 'Full house' winning 595612 with a rolling total winning of 107121418
+   647	4.04.04.04.07.07 [44477] 559 'Full house' winning 361673 with a rolling total winning of 107483091
+   648	4.04.04.08.08.08 [44888] 898 'Full house' winning 581904 with a rolling total winning of 108064995
+   649	4.04.04.09.09.04 [44994] 567 'Full house' winning 367983 with a rolling total winning of 108432978
+   650	4.04.05.05.04.04 [45544] 282 'Full house' winning 183300 with a rolling total winning of 108616278
+   651	4.04.06.04.04.06 [46446] 802 'Full house' winning 522102 with a rolling total winning of 109138380
+   652	4.04.11.04.04.11 [4J44J] 245 'Full house' winning 159740 with a rolling total winning of 109298120
+   653	4.04.12.04.12.04 [4Q4Q4] 126 'Full house' winning 82278 with a rolling total winning of 109380398
+   654	4.04.13.04.04.13 [4K44K] 424 'Full house' winning 277296 with a rolling total winning of 109657694
+   655	4.04.14.04.04.14 [4A44A] 685 'Full house' winning 448675 with a rolling total winning of 110106369
+   656	4.04.14.14.04.14 [4AA4A] 578 'Full house' winning 379168 with a rolling total winning of 110485537
+   657	4.05.04.05.05.04 [54554] 440 'Full house' winning 289080 with a rolling total winning of 110774617
+   658	4.05.05.03.05.03 [55353] 981 'Full house' winning 645498 with a rolling total winning of 111420115
+   659	4.05.05.05.07.07 [55577] 182 'Full house' winning 119938 with a rolling total winning of 111540053
+   660	4.05.05.05.10.10 [555TT] 968 'Full house' winning 638880 with a rolling total winning of 112178933
+   661	4.05.05.13.13.05 [55KK5] 590 'Full house' winning 389990 with a rolling total winning of 112568923
+   662	4.05.08.08.05.08 [58858] 555 'Full house' winning 367410 with a rolling total winning of 112936333
+   663	4.05.10.05.10.10 [5T5TT] 979 'Full house' winning 649077 with a rolling total winning of 113585410
+   664	4.05.11.05.11.05 [5J5J5] 785 'Full house' winning 521240 with a rolling total winning of 114106650
+   665	4.05.12.05.12.12 [5Q5QQ] 858 'Full house' winning 570570 with a rolling total winning of 114677220
+   666	4.05.14.14.05.05 [5AA55] 312 'Full house' winning 207792 with a rolling total winning of 114885012
+   667	4.06.02.06.02.02 [62622] 784 'Full house' winning 522928 with a rolling total winning of 115407940
+   668	4.06.04.04.06.06 [64466] 942 'Full house' winning 629256 with a rolling total winning of 116037196
+   669	4.06.05.05.05.06 [65556] 835 'Full house' winning 558615 with a rolling total winning of 116595811
+   670	4.06.06.02.02.06 [66226] 543 'Full house' winning 363810 with a rolling total winning of 116959621
+   671	4.06.06.09.09.06 [66996] 13 'Full house' winning 8723 with a rolling total winning of 116968344
+   672	4.06.10.10.10.06 [6TTT6] 642 'Full house' winning 431424 with a rolling total winning of 117399768
+   673	4.06.11.06.06.11 [6J66J] 114 'Full house' winning 76722 with a rolling total winning of 117476490
+   674	4.06.13.13.06.06 [6KK66] 362 'Full house' winning 243988 with a rolling total winning of 117720478
+   675	4.07.02.07.02.07 [72727] 538 'Full house' winning 363150 with a rolling total winning of 118083628
+   676	4.07.04.07.07.04 [74774] 79 'Full house' winning 53404 with a rolling total winning of 118137032
+   677	4.07.05.05.07.07 [75577] 488 'Full house' winning 330376 with a rolling total winning of 118467408
+   678	4.07.06.07.06.07 [76767] 173 'Full house' winning 117294 with a rolling total winning of 118584702
+   679	4.07.07.09.07.09 [77979] 524 'Full house' winning 355796 with a rolling total winning of 118940498
+   680	4.07.07.14.14.14 [77AAA] 969 'Full house' winning 658920 with a rolling total winning of 119599418
+   681	4.07.12.12.07.07 [7QQ77] 177 'Full house' winning 120537 with a rolling total winning of 119719955
+   682	4.08.06.06.08.08 [86688] 623 'Full house' winning 424886 with a rolling total winning of 120144841
+   683	4.08.07.07.07.08 [87778] 695 'Full house' winning 474685 with a rolling total winning of 120619526
+   684	4.08.08.08.07.07 [88877] 322 'Full house' winning 220248 with a rolling total winning of 120839774
+   685	4.08.08.10.08.10 [88T8T] 679 'Full house' winning 465115 with a rolling total winning of 121304889
+   686	4.08.08.11.08.11 [88J8J] 297 'Full house' winning 203742 with a rolling total winning of 121508631
+   687	4.08.08.12.12.12 [88QQQ] 866 'Full house' winning 594942 with a rolling total winning of 122103573
+   688	4.08.08.14.08.14 [88A8A] 629 'Full house' winning 432752 with a rolling total winning of 122536325
+   689	4.08.09.09.09.08 [89998] 321 'Full house' winning 221169 with a rolling total winning of 122757494
+   690	4.08.12.08.12.08 [8Q8Q8] 243 'Full house' winning 167670 with a rolling total winning of 122925164
+   691	4.09.05.05.09.05 [95595] 333 'Full house' winning 230103 with a rolling total winning of 123155267
+   692	4.09.08.08.08.09 [98889] 834 'Full house' winning 577128 with a rolling total winning of 123732395
+   693	4.09.09.02.02.09 [99229] 395 'Full house' winning 273735 with a rolling total winning of 124006130
+   694	4.09.09.06.06.09 [99669] 336 'Full house' winning 233184 with a rolling total winning of 124239314
+   695	4.09.09.09.13.13 [999KK] 413 'Full house' winning 287035 with a rolling total winning of 124526349
+   696	4.09.11.09.09.11 [9J99J] 303 'Full house' winning 210888 with a rolling total winning of 124737237
+   697	4.09.14.09.09.14 [9A99A] 720 'Full house' winning 501840 with a rolling total winning of 125239077
+   698	4.10.04.04.10.04 [T44T4] 557 'Full house' winning 388786 with a rolling total winning of 125627863
+   699	4.10.04.10.04.10 [T4T4T] 507 'Full house' winning 354393 with a rolling total winning of 125982256
+   700	4.10.06.06.06.10 [T666T] 52 'Full house' winning 36400 with a rolling total winning of 126018656
+   701	4.10.07.07.10.07 [T77T7] 55 'Full house' winning 38555 with a rolling total winning of 126057211
+   702	4.10.09.10.09.09 [T9T99] 684 'Full house' winning 480168 with a rolling total winning of 126537379
+   703	4.10.10.09.10.09 [TT9T9] 196 'Full house' winning 137788 with a rolling total winning of 126675167
+   704	4.10.11.10.10.11 [TJTTJ] 609 'Full house' winning 428736 with a rolling total winning of 127103903
+   705	4.10.12.12.10.10 [TQQTT] 518 'Full house' winning 365190 with a rolling total winning of 127469093
+   706	4.11.03.11.11.03 [J3JJ3] 66 'Full house' winning 46596 with a rolling total winning of 127515689
+   707	4.11.06.11.11.06 [J6JJ6] 247 'Full house' winning 174629 with a rolling total winning of 127690318
+   708	4.11.07.07.07.11 [J777J] 67 'Full house' winning 47436 with a rolling total winning of 127737754
+   709	4.11.07.07.11.11 [J77JJ] 30 'Full house' winning 21270 with a rolling total winning of 127759024
+   710	4.11.11.13.13.13 [JJKKK] 937 'Full house' winning 665270 with a rolling total winning of 128424294
+   711	4.11.14.11.14.11 [JAJAJ] 562 'Full house' winning 399582 with a rolling total winning of 128823876
+   712	4.11.14.11.14.14 [JAJAA] 407 'Full house' winning 289784 with a rolling total winning of 129113660
+   713	4.12.10.12.12.10 [QTQQT] 930 'Full house' winning 663090 with a rolling total winning of 129776750
+   714	4.12.12.02.02.12 [QQ22Q] 91 'Full house' winning 64974 with a rolling total winning of 129841724
+   715	4.12.12.03.03.12 [QQ33Q] 778 'Full house' winning 556270 with a rolling total winning of 130397994
+   716	4.12.12.04.12.04 [QQ4Q4] 857 'Full house' winning 613612 with a rolling total winning of 131011606
+   717	4.12.12.11.12.11 [QQJQJ] 131 'Full house' winning 93927 with a rolling total winning of 131105533
+   718	4.13.02.02.13.02 [K22K2] 318 'Full house' winning 228324 with a rolling total winning of 131333857
+   719	4.13.03.03.13.03 [K33K3] 387 'Full house' winning 278253 with a rolling total winning of 131612110
+   720	4.13.08.13.08.13 [K8K8K] 61 'Full house' winning 43920 with a rolling total winning of 131656030
+   721	4.13.10.13.10.13 [KTKTK] 810 'Full house' winning 584010 with a rolling total winning of 132240040
+   722	4.13.12.13.12.13 [KQKQK] 845 'Full house' winning 610090 with a rolling total winning of 132850130
+   723	4.13.13.06.06.13 [KK66K] 189 'Full house' winning 136647 with a rolling total winning of 132986777
+   724	4.13.13.10.10.10 [KKTTT] 832 'Full house' winning 602368 with a rolling total winning of 133589145
+   725	4.13.13.13.02.02 [KKK22] 432 'Full house' winning 313200 with a rolling total winning of 133902345
+   726	4.13.13.13.05.05 [KKK55] 665 'Full house' winning 482790 with a rolling total winning of 134385135
+   727	4.13.13.13.14.14 [KKKAA] 473 'Full house' winning 343871 with a rolling total winning of 134729006
+   728	4.14.06.14.06.06 [A6A66] 569 'Full house' winning 414232 with a rolling total winning of 135143238
+   729	4.14.06.14.06.14 [A6A6A] 125 'Full house' winning 91125 with a rolling total winning of 135234363
+   730	4.14.08.14.08.14 [A8A8A] 342 'Full house' winning 249660 with a rolling total winning of 135484023
+   731	4.14.09.14.14.09 [A9AA9] 676 'Full house' winning 494156 with a rolling total winning of 135978179
+   732	4.14.14.02.02.14 [AA22A] 955 'Full house' winning 699060 with a rolling total winning of 136677239
+   733	4.14.14.03.03.14 [AA33A] 195 'Full house' winning 142935 with a rolling total winning of 136820174
+   734	4.14.14.10.10.10 [AATTT] 603 'Full house' winning 442602 with a rolling total winning of 137262776
+   735	4.14.14.10.10.14 [AATTA] 28 'Full house' winning 20580 with a rolling total winning of 137283356
+   736	5.02.02.13.02.14 [22K2A] 426 'Three of a kind' winning 313536 with a rolling total winning of 137596892
+   737	5.02.03.02.04.02 [23242] 751 'Three of a kind' winning 553487 with a rolling total winning of 138150379
+   738	5.02.04.04.08.04 [24484] 278 'Three of a kind' winning 205164 with a rolling total winning of 138355543
+   739	5.02.05.11.02.02 [25J22] 233 'Three of a kind' winning 172187 with a rolling total winning of 138527730
+   740	5.02.06.02.02.03 [26223] 677 'Three of a kind' winning 500980 with a rolling total winning of 139028710
+   741	5.02.09.09.09.08 [29998] 197 'Three of a kind' winning 145977 with a rolling total winning of 139174687
+   742	5.02.09.09.09.13 [2999K] 484 'Three of a kind' winning 359128 with a rolling total winning of 139533815
+   743	5.02.10.05.02.02 [2T522] 563 'Three of a kind' winning 418309 with a rolling total winning of 139952124
+   744	5.02.11.08.02.02 [2J822] 663 'Three of a kind' winning 493272 with a rolling total winning of 140445396
+   745	5.02.12.02.02.11 [2Q22J] 542 'Three of a kind' winning 403790 with a rolling total winning of 140849186
+   746	5.02.12.12.12.08 [2QQQ8] 548 'Three of a kind' winning 408808 with a rolling total winning of 141257994
+   747	5.02.13.02.07.02 [2K272] 717 'Three of a kind' winning 535599 with a rolling total winning of 141793593
+   748	5.02.14.02.11.02 [2A2J2] 314 'Three of a kind' winning 234872 with a rolling total winning of 142028465
+   749	5.03.02.02.10.02 [322T2] 340 'Three of a kind' winning 254660 with a rolling total winning of 142283125
+   750	5.03.03.03.09.13 [3339K] 490 'Three of a kind' winning 367500 with a rolling total winning of 142650625
+   751	5.03.03.03.11.09 [333J9] 871 'Three of a kind' winning 654121 with a rolling total winning of 143304746
+   752	5.03.03.03.13.08 [333K8] 199 'Three of a kind' winning 149648 with a rolling total winning of 143454394
+   753	5.03.03.08.03.11 [3383J] 726 'Three of a kind' winning 546678 with a rolling total winning of 144001072
+   754	5.03.04.07.04.04 [34744] 931 'Three of a kind' winning 701974 with a rolling total winning of 144703046
+   755	5.03.06.05.06.06 [36566] 774 'Three of a kind' winning 584370 with a rolling total winning of 145287416
+   756	5.03.06.06.11.06 [366J6] 1000 'Three of a kind' winning 756000 with a rolling total winning of 146043416
+   757	5.03.08.06.06.06 [38666] 867 'Three of a kind' winning 656319 with a rolling total winning of 146699735
+   758	5.03.09.02.03.03 [39233] 242 'Three of a kind' winning 183436 with a rolling total winning of 146883171
+   759	5.03.09.10.03.03 [39T33] 744 'Three of a kind' winning 564696 with a rolling total winning of 147447867
+   760	5.03.11.11.07.11 [3JJ7J] 984 'Three of a kind' winning 747840 with a rolling total winning of 148195707
+   761	5.03.14.02.14.14 [3A2AA] 170 'Three of a kind' winning 129370 with a rolling total winning of 148325077
+   762	5.04.04.04.14.06 [444A6] 813 'Three of a kind' winning 619506 with a rolling total winning of 148944583
+   763	5.04.04.05.10.04 [445T4] 865 'Three of a kind' winning 659995 with a rolling total winning of 149604578
+   764	5.04.04.11.12.04 [44JQ4] 72 'Three of a kind' winning 55008 with a rolling total winning of 149659586
+   765	5.04.04.12.03.04 [44Q34] 957 'Three of a kind' winning 732105 with a rolling total winning of 150391691
+   766	5.04.04.13.04.11 [44K4J] 357 'Three of a kind' winning 273462 with a rolling total winning of 150665153
+   767	5.04.07.03.07.07 [47377] 200 'Three of a kind' winning 153400 with a rolling total winning of 150818553
+   768	5.04.10.07.07.07 [4T777] 592 'Three of a kind' winning 454656 with a rolling total winning of 151273209
+   769	5.05.02.05.11.05 [525J5] 499 'Three of a kind' winning 383731 with a rolling total winning of 151656940
+   770	5.05.03.07.05.05 [53755] 982 'Three of a kind' winning 756140 with a rolling total winning of 152413080
+   771	5.05.04.11.05.05 [54J55] 500 'Three of a kind' winning 385500 with a rolling total winning of 152798580
+   772	5.05.05.05.13.09 [555K9] 477 'Three of a kind' winning 368244 with a rolling total winning of 153166824
+   773	5.05.05.10.05.06 [55T56] 235 'Three of a kind' winning 181655 with a rolling total winning of 153348479
+   774	5.05.05.11.13.05 [55JK5] 150 'Three of a kind' winning 116100 with a rolling total winning of 153464579
+   775	5.05.06.05.05.11 [5655J] 584 'Three of a kind' winning 452600 with a rolling total winning of 153917179
+   776	5.05.09.09.11.09 [599J9] 998 'Three of a kind' winning 774448 with a rolling total winning of 154691627
+   777	5.05.09.14.05.05 [59A55] 103 'Three of a kind' winning 80031 with a rolling total winning of 154771658
+   778	5.05.13.13.07.13 [5KK7K] 116 'Three of a kind' winning 90248 with a rolling total winning of 154861906
+   779	5.06.03.08.03.03 [63833] 470 'Three of a kind' winning 366130 with a rolling total winning of 155228036
+   780	5.06.04.07.06.06 [64766] 837 'Three of a kind' winning 652860 with a rolling total winning of 155880896
+   781	5.06.06.06.11.09 [666J9] 298 'Three of a kind' winning 232738 with a rolling total winning of 156113634
+   782	5.06.06.09.06.08 [66968] 757 'Three of a kind' winning 591974 with a rolling total winning of 156705608
+   783	5.06.07.03.06.06 [67366] 327 'Three of a kind' winning 256041 with a rolling total winning of 156961649
+   784	5.06.07.07.14.07 [677A7] 35 'Three of a kind' winning 27440 with a rolling total winning of 156989089
+   785	5.06.09.06.06.14 [6966A] 699 'Three of a kind' winning 548715 with a rolling total winning of 157537804
+   786	5.06.10.04.10.10 [6T4TT] 818 'Three of a kind' winning 642948 with a rolling total winning of 158180752
+   787	5.06.12.14.12.12 [6QAQQ] 794 'Three of a kind' winning 624878 with a rolling total winning of 158805630
+   788	5.06.13.13.13.11 [6KKKJ] 60 'Three of a kind' winning 47280 with a rolling total winning of 158852910
+   789	5.07.02.07.05.07 [72757] 471 'Three of a kind' winning 371619 with a rolling total winning of 159224529
+   790	5.07.03.07.07.11 [7377J] 856 'Three of a kind' winning 676240 with a rolling total winning of 159900769
+   791	5.07.03.07.10.07 [737T7] 458 'Three of a kind' winning 362278 with a rolling total winning of 160263047
+   792	5.07.05.04.07.07 [75477] 94 'Three of a kind' winning 74448 with a rolling total winning of 160337495
+   793	5.07.07.13.11.07 [77KJ7] 425 'Three of a kind' winning 337025 with a rolling total winning of 160674520
+   794	5.07.08.07.07.11 [7877J] 469 'Three of a kind' winning 372386 with a rolling total winning of 161046906
+   795	5.07.10.07.07.02 [7T772] 657 'Three of a kind' winning 522315 with a rolling total winning of 161569221
+   796	5.07.10.07.07.05 [7T775] 680 'Three of a kind' winning 541280 with a rolling total winning of 162110501
+   797	5.07.10.11.10.10 [7TJTT] 207 'Three of a kind' winning 164979 with a rolling total winning of 162275480
+   798	5.07.12.07.07.03 [7Q773] 673 'Three of a kind' winning 537054 with a rolling total winning of 162812534
+   799	5.07.12.12.12.03 [7QQQ3] 149 'Three of a kind' winning 119051 with a rolling total winning of 162931585
+   800	5.07.14.07.02.07 [7A727] 821 'Three of a kind' winning 656800 with a rolling total winning of 163588385
+   801	5.08.02.08.08.05 [82885] 820 'Three of a kind' winning 656820 with a rolling total winning of 164245205
+   802	5.08.03.03.03.05 [83335] 690 'Three of a kind' winning 553380 with a rolling total winning of 164798585
+   803	5.08.05.05.05.11 [8555J] 241 'Three of a kind' winning 193523 with a rolling total winning of 164992108
+   804	5.08.06.09.09.09 [86999] 545 'Three of a kind' winning 438180 with a rolling total winning of 165430288
+   805	5.08.08.03.11.08 [883J8] 940 'Three of a kind' winning 756700 with a rolling total winning of 166186988
+   806	5.08.08.04.08.02 [88482] 877 'Three of a kind' winning 706862 with a rolling total winning of 166893850
+   807	5.08.08.05.07.08 [88578] 840 'Three of a kind' winning 677880 with a rolling total winning of 167571730
+   808	5.08.09.08.08.13 [8988K] 696 'Three of a kind' winning 562368 with a rolling total winning of 168134098
+   809	5.08.09.09.07.09 [89979] 842 'Three of a kind' winning 681178 with a rolling total winning of 168815276
+   810	5.08.11.08.02.08 [8J828] 973 'Three of a kind' winning 788130 with a rolling total winning of 169603406
+   811	5.08.11.08.08.12 [8J88Q] 498 'Three of a kind' winning 403878 with a rolling total winning of 170007284
+   812	5.08.11.14.14.14 [8JAAA] 626 'Three of a kind' winning 508312 with a rolling total winning of 170515596
+   813	5.08.12.12.12.03 [8QQQ3] 508 'Three of a kind' winning 413004 with a rolling total winning of 170928600
+   814	5.08.14.08.08.03 [8A883] 764 'Three of a kind' winning 621896 with a rolling total winning of 171550496
+   815	5.09.02.02.14.02 [922A2] 442 'Three of a kind' winning 360230 with a rolling total winning of 171910726
+   816	5.09.02.03.09.09 [92399] 381 'Three of a kind' winning 310896 with a rolling total winning of 172221622
+   817	5.09.02.08.08.08 [92888] 296 'Three of a kind' winning 241832 with a rolling total winning of 172463454
+   818	5.09.03.05.09.09 [93599] 703 'Three of a kind' winning 575054 with a rolling total winning of 173038508
+   819	5.09.03.09.11.09 [939J9] 570 'Three of a kind' winning 466830 with a rolling total winning of 173505338
+   820	5.09.04.04.04.05 [94445] 776 'Three of a kind' winning 636320 with a rolling total winning of 174141658
+   821	5.09.04.09.09.08 [94998] 33 'Three of a kind' winning 27093 with a rolling total winning of 174168751
+   822	5.09.04.10.04.04 [94T44] 805 'Three of a kind' winning 661710 with a rolling total winning of 174830461
+   823	5.09.06.03.03.03 [96333] 915 'Three of a kind' winning 753045 with a rolling total winning of 175583506
+   824	5.09.07.09.09.11 [9799J] 705 'Three of a kind' winning 580920 with a rolling total winning of 176164426
+   825	5.09.09.09.02.05 [99925] 691 'Three of a kind' winning 570075 with a rolling total winning of 176734501
+   826	5.09.09.10.08.09 [99T89] 176 'Three of a kind' winning 145376 with a rolling total winning of 176879877
+   827	5.09.11.09.06.09 [9J969] 529 'Three of a kind' winning 437483 with a rolling total winning of 177317360
+   828	5.09.11.09.09.04 [9J994] 883 'Three of a kind' winning 731124 with a rolling total winning of 178048484
+   829	5.09.12.09.06.09 [9Q969] 202 'Three of a kind' winning 167458 with a rolling total winning of 178215942
+   830	5.09.14.11.14.14 [9AJAA] 88 'Three of a kind' winning 73040 with a rolling total winning of 178288982
+   831	5.10.02.05.10.10 [T25TT] 461 'Three of a kind' winning 383091 with a rolling total winning of 178672073
+   832	5.10.02.06.06.06 [T2666] 530 'Three of a kind' winning 440960 with a rolling total winning of 179113033
+   833	5.10.03.03.04.03 [T3343] 918 'Three of a kind' winning 764694 with a rolling total winning of 179877727
+   834	5.10.05.05.05.12 [T555Q] 558 'Three of a kind' winning 465372 with a rolling total winning of 180343099
+   835	5.10.05.05.07.05 [T5575] 541 'Three of a kind' winning 451735 with a rolling total winning of 180794834
+   836	5.10.05.11.05.05 [T5J55] 49 'Three of a kind' winning 40964 with a rolling total winning of 180835798
+   837	5.10.06.06.06.08 [T6668] 445 'Three of a kind' winning 372465 with a rolling total winning of 181208263
+   838	5.10.07.07.07.13 [T777K] 921 'Three of a kind' winning 771798 with a rolling total winning of 181980061
+   839	5.10.09.02.09.09 [T9299] 914 'Three of a kind' winning 766846 with a rolling total winning of 182746907
+   840	5.10.09.06.10.10 [T96TT] 725 'Three of a kind' winning 609000 with a rolling total winning of 183355907
+   841	5.10.10.09.07.10 [TT97T] 32 'Three of a kind' winning 26912 with a rolling total winning of 183382819
+   842	5.10.10.10.04.11 [TTT4J] 389 'Three of a kind' winning 327538 with a rolling total winning of 183710357
+   843	5.10.10.10.07.05 [TTT75] 443 'Three of a kind' winning 373449 with a rolling total winning of 184083806
+   844	5.10.10.10.13.03 [TTTK3] 90 'Three of a kind' winning 75960 with a rolling total winning of 184159766
+   845	5.10.10.12.11.10 [TTQJT] 515 'Three of a kind' winning 435175 with a rolling total winning of 184594941
+   846	5.10.11.08.08.08 [TJ888] 525 'Three of a kind' winning 444150 with a rolling total winning of 185039091
+   847	5.10.11.10.10.08 [TJTT8] 58 'Three of a kind' winning 49126 with a rolling total winning of 185088217
+   848	5.10.13.12.12.12 [TKQQQ] 716 'Three of a kind' winning 607168 with a rolling total winning of 185695385
+   849	5.11.02.02.02.07 [J2227] 863 'Three of a kind' winning 732687 with a rolling total winning of 186428072
+   850	5.11.03.03.05.03 [J3353] 178 'Three of a kind' winning 151300 with a rolling total winning of 186579372
+   851	5.11.04.04.04.10 [J444T] 401 'Three of a kind' winning 341251 with a rolling total winning of 186920623
+   852	5.11.06.06.07.06 [J6676] 289 'Three of a kind' winning 246228 with a rolling total winning of 187166851
+   853	5.11.06.10.06.06 [J6T66] 364 'Three of a kind' winning 310492 with a rolling total winning of 187477343
+   854	5.11.07.12.07.07 [J7Q77] 260 'Three of a kind' winning 222040 with a rolling total winning of 187699383
+   855	5.11.08.08.08.14 [J888A] 89 'Three of a kind' winning 76095 with a rolling total winning of 187775478
+   856	5.11.11.05.06.11 [JJ56J] 948 'Three of a kind' winning 811488 with a rolling total winning of 188586966
+   857	5.11.12.12.12.10 [JQQQT] 965 'Three of a kind' winning 827005 with a rolling total winning of 189413971
+   858	5.11.12.13.12.12 [JQKQQ] 299 'Three of a kind' winning 256542 with a rolling total winning of 189670513
+   859	5.11.13.11.11.07 [JKJJ7] 636 'Three of a kind' winning 546324 with a rolling total winning of 190216837
+   860	5.11.14.10.10.10 [JATTT] 391 'Three of a kind' winning 336260 with a rolling total winning of 190553097
+   861	5.11.14.14.07.14 [JAA7A] 528 'Three of a kind' winning 454608 with a rolling total winning of 191007705
+   862	5.12.02.09.02.02 [Q2922] 773 'Three of a kind' winning 666326 with a rolling total winning of 191674031
+   863	5.12.03.03.04.03 [Q3343] 99 'Three of a kind' winning 85437 with a rolling total winning of 191759468
+   864	5.12.03.03.11.03 [Q33J3] 205 'Three of a kind' winning 177120 with a rolling total winning of 191936588
+   865	5.12.05.05.05.03 [Q5553] 564 'Three of a kind' winning 487860 with a rolling total winning of 192424448
+   866	5.12.05.12.03.12 [Q5Q3Q] 264 'Three of a kind' winning 228624 with a rolling total winning of 192653072
+   867	5.12.07.05.05.05 [Q7555] 899 'Three of a kind' winning 779433 with a rolling total winning of 193432505
+   868	5.12.07.12.12.11 [Q7QQJ] 23 'Three of a kind' winning 19964 with a rolling total winning of 193452469
+   869	5.12.09.12.14.12 [Q9QAQ] 491 'Three of a kind' winning 426679 with a rolling total winning of 193879148
+   870	5.12.10.08.08.08 [QT888] 501 'Three of a kind' winning 435870 with a rolling total winning of 194315018
+   871	5.12.10.12.06.12 [QTQ6Q] 204 'Three of a kind' winning 177684 with a rolling total winning of 194492702
+   872	5.12.12.06.04.12 [QQ64Q] 40 'Three of a kind' winning 34880 with a rolling total winning of 194527582
+   873	5.12.12.12.07.02 [QQQ72] 165 'Three of a kind' winning 144045 with a rolling total winning of 194671627
+   874	5.12.14.13.14.14 [QAKAA] 228 'Three of a kind' winning 199272 with a rolling total winning of 194870899
+   875	5.13.02.02.02.09 [K2229] 285 'Three of a kind' winning 249375 with a rolling total winning of 195120274
+   876	5.13.03.03.03.12 [K333Q] 681 'Three of a kind' winning 596556 with a rolling total winning of 195716830
+   877	5.13.07.11.13.13 [K7JKK] 262 'Three of a kind' winning 229774 with a rolling total winning of 195946604
+   878	5.13.07.13.04.13 [K7K4K] 961 'Three of a kind' winning 843758 with a rolling total winning of 196790362
+   879	5.13.08.08.08.04 [K8884] 34 'Three of a kind' winning 29886 with a rolling total winning of 196820248
+   880	5.13.09.05.09.09 [K9599] 174 'Three of a kind' winning 153120 with a rolling total winning of 196973368
+   881	5.13.10.10.12.10 [KTTQT] 949 'Three of a kind' winning 836069 with a rolling total winning of 197809437
+   882	5.13.10.13.13.05 [KTKK5] 140 'Three of a kind' winning 123480 with a rolling total winning of 197932917
+   883	5.13.11.12.13.13 [KJQKK] 57 'Three of a kind' winning 50331 with a rolling total winning of 197983248
+   884	5.13.13.03.13.14 [KK3KA] 620 'Three of a kind' winning 548080 with a rolling total winning of 198531328
+   885	5.13.13.06.13.14 [KK6KA] 568 'Three of a kind' winning 502680 with a rolling total winning of 199034008
+   886	5.13.13.11.13.02 [KKJK2] 64 'Three of a kind' winning 56704 with a rolling total winning of 199090712
+   887	5.13.13.11.13.10 [KKJKT] 339 'Three of a kind' winning 300693 with a rolling total winning of 199391405
+   888	5.13.13.12.13.05 [KKQK5] 599 'Three of a kind' winning 531912 with a rolling total winning of 199923317
+   889	5.13.13.13.06.10 [KKK6T] 682 'Three of a kind' winning 606298 with a rolling total winning of 200529615
+   890	5.14.02.08.14.14 [A28AA] 137 'Three of a kind' winning 121930 with a rolling total winning of 200651545
+   891	5.14.02.14.12.14 [A2AQA] 267 'Three of a kind' winning 237897 with a rolling total winning of 200889442
+   892	5.14.02.14.14.05 [A2AA5] 549 'Three of a kind' winning 489708 with a rolling total winning of 201379150
+   893	5.14.03.03.03.11 [A333J] 463 'Three of a kind' winning 413459 with a rolling total winning of 201792609
+   894	5.14.03.12.12.12 [A3QQQ] 885 'Three of a kind' winning 791190 with a rolling total winning of 202583799
+   895	5.14.04.04.04.11 [A444J] 950 'Three of a kind' winning 850250 with a rolling total winning of 203434049
+   896	5.14.04.14.10.14 [A4ATA] 971 'Three of a kind' winning 870016 with a rolling total winning of 204304065
+   897	5.14.06.06.11.06 [A66J6] 213 'Three of a kind' winning 191061 with a rolling total winning of 204495126
+   898	5.14.09.09.11.09 [A99J9] 771 'Three of a kind' winning 692358 with a rolling total winning of 205187484
+   899	5.14.10.14.14.08 [ATAA8] 120 'Three of a kind' winning 107880 with a rolling total winning of 205295364
+   900	5.14.11.12.12.12 [AJQQQ] 533 'Three of a kind' winning 479700 with a rolling total winning of 205775064
+   901	5.14.12.12.12.04 [AQQQ4] 766 'Three of a kind' winning 690166 with a rolling total winning of 206465230
+   902	5.14.14.04.08.14 [AA48A] 56 'Three of a kind' winning 50512 with a rolling total winning of 206515742
+   903	5.14.14.14.02.06 [AAA26] 598 'Three of a kind' winning 539994 with a rolling total winning of 207055736
+   904	5.14.14.14.05.13 [AAA5K] 466 'Three of a kind' winning 421264 with a rolling total winning of 207477000
+   905	6.02.02.02.02.03 [22223] 227 'Four of a kind' winning 205435 with a rolling total winning of 207682435
+   906	6.02.02.02.02.08 [22228] 492 'Four of a kind' winning 445752 with a rolling total winning of 208128187
+   907	6.02.02.02.13.02 [222K2] 3 'Four of a kind' winning 2721 with a rolling total winning of 208130908
+   908	6.02.02.05.02.02 [22522] 249 'Four of a kind' winning 226092 with a rolling total winning of 208357000
+   909	6.02.02.09.02.02 [22922] 755 'Four of a kind' winning 686295 with a rolling total winning of 209043295
+   910	6.02.02.14.02.02 [22A22] 416 'Four of a kind' winning 378560 with a rolling total winning of 209421855
+   911	6.02.03.03.03.03 [23333] 475 'Four of a kind' winning 432725 with a rolling total winning of 209854580
+   912	6.02.10.10.10.10 [2TTTT] 265 'Four of a kind' winning 241680 with a rolling total winning of 210096260
+   913	6.02.12.02.02.02 [2Q222] 104 'Four of a kind' winning 94952 with a rolling total winning of 210191212
+   914	6.02.14.14.14.14 [2AAAA] 19 'Four of a kind' winning 17366 with a rolling total winning of 210208578
+   915	6.03.03.03.03.04 [33334] 351 'Four of a kind' winning 321165 with a rolling total winning of 210529743
+   916	6.03.03.03.11.03 [333J3] 672 'Four of a kind' winning 615552 with a rolling total winning of 211145295
+   917	6.03.03.07.03.03 [33733] 313 'Four of a kind' winning 287021 with a rolling total winning of 211432316
+   918	6.03.07.07.07.07 [37777] 159 'Four of a kind' winning 145962 with a rolling total winning of 211578278
+   919	6.04.02.02.02.02 [42222] 722 'Four of a kind' winning 663518 with a rolling total winning of 212241796
+   920	6.04.04.04.04.02 [44442] 566 'Four of a kind' winning 520720 with a rolling total winning of 212762516
+   921	6.04.04.04.13.04 [444K4] 962 'Four of a kind' winning 886002 with a rolling total winning of 213648518
+   922	6.04.04.09.04.04 [44944] 660 'Four of a kind' winning 608520 with a rolling total winning of 214257038
+   923	6.04.06.06.06.06 [46666] 276 'Four of a kind' winning 254748 with a rolling total winning of 214511786
+   924	6.04.13.13.13.13 [4KKKK] 144 'Four of a kind' winning 133056 with a rolling total winning of 214644842
+   925	6.05.05.05.04.05 [55545] 143 'Four of a kind' winning 132275 with a rolling total winning of 214777117
+   926	6.05.05.05.06.05 [55565] 283 'Four of a kind' winning 262058 with a rolling total winning of 215039175
+   927	6.05.05.05.08.05 [55585] 936 'Four of a kind' winning 867672 with a rolling total winning of 215906847
+   928	6.05.05.09.05.05 [55955] 422 'Four of a kind' winning 391616 with a rolling total winning of 216298463
+   929	6.05.05.11.05.05 [55J55] 141 'Four of a kind' winning 130989 with a rolling total winning of 216429452
+   930	6.05.08.08.08.08 [58888] 875 'Four of a kind' winning 813750 with a rolling total winning of 217243202
+   931	6.05.10.05.05.05 [5T555] 512 'Four of a kind' winning 476672 with a rolling total winning of 217719874
+   932	6.05.14.05.05.05 [5A555] 439 'Four of a kind' winning 409148 with a rolling total winning of 218129022
+   933	6.06.02.02.02.02 [62222] 188 'Four of a kind' winning 175404 with a rolling total winning of 218304426
+   934	6.06.03.03.03.03 [63333] 231 'Four of a kind' winning 215754 with a rolling total winning of 218520180
+   935	6.06.06.06.02.06 [66626] 900 'Four of a kind' winning 841500 with a rolling total winning of 219361680
+   936	6.06.06.06.06.08 [66668] 919 'Four of a kind' winning 860184 with a rolling total winning of 220221864
+   937	6.06.06.06.06.14 [6666A] 476 'Four of a kind' winning 446012 with a rolling total winning of 220667876
+   938	6.06.07.06.06.06 [67666] 51 'Four of a kind' winning 47838 with a rolling total winning of 220715714
+   939	6.06.07.07.07.07 [67777] 437 'Four of a kind' winning 410343 with a rolling total winning of 221126057
+   940	6.06.10.06.06.06 [6T666] 9 'Four of a kind' winning 8460 with a rolling total winning of 221134517
+   941	6.07.02.07.07.07 [72777] 519 'Four of a kind' winning 488379 with a rolling total winning of 221622896
+   942	6.07.04.04.04.04 [74444] 683 'Four of a kind' winning 643386 with a rolling total winning of 222266282
+   943	6.07.05.05.05.05 [75555] 613 'Four of a kind' winning 578059 with a rolling total winning of 222844341
+   944	6.07.07.07.04.07 [77747] 553 'Four of a kind' winning 522032 with a rolling total winning of 223366373
+   945	6.07.07.07.05.07 [77757] 415 'Four of a kind' winning 392175 with a rolling total winning of 223758548
+   946	6.07.07.07.07.11 [7777J] 404 'Four of a kind' winning 382184 with a rolling total winning of 224140732
+   947	6.07.07.07.07.13 [7777K] 254 'Four of a kind' winning 240538 with a rolling total winning of 224381270
+   948	6.07.07.07.07.14 [7777A] 135 'Four of a kind' winning 127980 with a rolling total winning of 224509250
+   949	6.07.07.07.10.07 [777T7] 136 'Four of a kind' winning 129064 with a rolling total winning of 224638314
+   950	6.07.08.07.07.07 [78777] 719 'Four of a kind' winning 683050 with a rolling total winning of 225321364
+   951	6.07.08.08.08.08 [78888] 290 'Four of a kind' winning 275790 with a rolling total winning of 225597154
+   952	6.07.09.07.07.07 [79777] 122 'Four of a kind' winning 116144 with a rolling total winning of 225713298
+   953	6.08.08.03.08.08 [88388] 782 'Four of a kind' winning 745246 with a rolling total winning of 226458544
+   954	6.08.08.08.08.04 [88884] 385 'Four of a kind' winning 367290 with a rolling total winning of 226825834
+   955	6.08.08.08.11.08 [888J8] 101 'Four of a kind' winning 96455 with a rolling total winning of 226922289
+   956	6.08.08.08.14.08 [888A8] 933 'Four of a kind' winning 891948 with a rolling total winning of 227814237
+   957	6.09.03.03.03.03 [93333] 408 'Four of a kind' winning 390456 with a rolling total winning of 228204693
+   958	6.09.07.09.09.09 [97999] 604 'Four of a kind' winning 578632 with a rolling total winning of 228783325
+   959	6.09.09.03.09.09 [99399] 790 'Four of a kind' winning 757610 with a rolling total winning of 229540935
+   960	6.09.09.09.02.09 [99929] 864 'Four of a kind' winning 829440 with a rolling total winning of 230370375
+   961	6.09.09.09.05.09 [99959] 146 'Four of a kind' winning 140306 with a rolling total winning of 230510681
+   962	6.09.09.09.06.09 [99969] 163 'Four of a kind' winning 156806 with a rolling total winning of 230667487
+   963	6.09.09.09.09.10 [9999T] 761 'Four of a kind' winning 732843 with a rolling total winning of 231400330
+   964	6.10.04.04.04.04 [T4444] 595 'Four of a kind' winning 573580 with a rolling total winning of 231973910
+   965	6.10.08.08.08.08 [T8888] 608 'Four of a kind' winning 586720 with a rolling total winning of 232560630
+   966	6.10.10.07.10.10 [TT7TT] 110 'Four of a kind' winning 106260 with a rolling total winning of 232666890
+   967	6.10.10.10.10.12 [TTTTQ] 384 'Four of a kind' winning 371328 with a rolling total winning of 233038218
+   968	6.11.02.02.02.02 [J2222] 187 'Four of a kind' winning 181016 with a rolling total winning of 233219234
+   969	6.11.04.04.04.04 [J4444] 444 'Four of a kind' winning 430236 with a rolling total winning of 233649470
+   970	6.11.06.06.06.06 [J6666] 239 'Four of a kind' winning 231830 with a rolling total winning of 233881300
+   971	6.11.09.09.09.09 [J9999] 400 'Four of a kind' winning 388400 with a rolling total winning of 234269700
+   972	6.11.10.10.10.10 [JTTTT] 305 'Four of a kind' winning 296460 with a rolling total winning of 234566160
+   973	6.11.11.08.11.11 [JJ8JJ] 359 'Four of a kind' winning 349307 with a rolling total winning of 234915467
+   974	6.12.05.12.12.12 [Q5QQQ] 585 'Four of a kind' winning 569790 with a rolling total winning of 235485257
+   975	6.12.06.06.06.06 [Q6666] 372 'Four of a kind' winning 362700 with a rolling total winning of 235847957
+   976	6.12.06.12.12.12 [Q6QQQ] 133 'Four of a kind' winning 129808 with a rolling total winning of 235977765
+   977	6.12.08.08.08.08 [Q8888] 274 'Four of a kind' winning 267698 with a rolling total winning of 236245463
+   978	6.12.09.09.09.09 [Q9999] 179 'Four of a kind' winning 175062 with a rolling total winning of 236420525
+   979	6.12.12.02.12.12 [QQ2QQ] 844 'Four of a kind' winning 826276 with a rolling total winning of 237246801
+   980	6.12.12.03.12.12 [QQ3QQ] 117 'Four of a kind' winning 114660 with a rolling total winning of 237361461
+   981	6.12.12.12.08.12 [QQQ8Q] 711 'Four of a kind' winning 697491 with a rolling total winning of 238058952
+   982	6.12.12.12.11.12 [QQQJQ] 831 'Four of a kind' winning 816042 with a rolling total winning of 238874994
+   983	6.12.13.13.13.13 [QKKKK] 747 'Four of a kind' winning 734301 with a rolling total winning of 239609295
+   984	6.12.14.12.12.12 [QAQQQ] 556 'Four of a kind' winning 547104 with a rolling total winning of 240156399
+   985	6.13.07.13.13.13 [K7KKK] 906 'Four of a kind' winning 892410 with a rolling total winning of 241048809
+   986	6.13.08.08.08.08 [K8888] 7 'Four of a kind' winning 6902 with a rolling total winning of 241055711
+   987	6.13.09.09.09.09 [K9999] 112 'Four of a kind' winning 110544 with a rolling total winning of 241166255
+   988	6.13.13.03.13.13 [KK3KK] 577 'Four of a kind' winning 570076 with a rolling total winning of 241736331
+   989	6.13.13.08.13.13 [KK8KK] 572 'Four of a kind' winning 565708 with a rolling total winning of 242302039
+   990	6.13.13.10.13.13 [KKTKK] 166 'Four of a kind' winning 164340 with a rolling total winning of 242466379
+   991	6.13.13.13.11.13 [KKKJK] 183 'Four of a kind' winning 181353 with a rolling total winning of 242647732
+   992	6.13.13.13.13.06 [KKKK6] 574 'Four of a kind' winning 569408 with a rolling total winning of 243217140
+   993	6.13.14.14.14.14 [KAAAA] 731 'Four of a kind' winning 725883 with a rolling total winning of 243943023
+   994	6.14.12.14.14.14 [AQAAA] 824 'Four of a kind' winning 819056 with a rolling total winning of 244762079
+   995	6.14.13.13.13.13 [AKKKK] 70 'Four of a kind' winning 69650 with a rolling total winning of 244831729
+   996	6.14.14.05.14.14 [AA5AA] 565 'Four of a kind' winning 562740 with a rolling total winning of 245394469
+   997	6.14.14.14.10.14 [AAATA] 704 'Four of a kind' winning 701888 with a rolling total winning of 246096357
+   998	6.14.14.14.14.03 [AAAA3] 145 'Four of a kind' winning 144710 with a rolling total winning of 246241067
+   999	6.14.14.14.14.11 [AAAAJ] 594 'Four of a kind' winning 593406 with a rolling total winning of 246834473
+  1000	7.11.11.11.11.11 [JJJJJ] 219 'Five of a kind' winning 219000 with a rolling total winning of 247053473

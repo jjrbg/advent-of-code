@@ -76,4 +76,4 @@ do
     fi
 
 # sort the output based on the rank, prefix line numbers so the worse hand has a rank of 1 etc, calculate the winnings by multiplying the rank by the bid and maintain a rolling total 
-done < input | sort | nl | awk '{ WIN = $1 * $4 ; SUM += WIN ; print $0, "winning", WIN, "with a rolling total winning of", SUM; }'
+done < $1 | sort | nl | awk '{ WIN = $1 * $4 ; SUM += WIN ; print $0, "winning", WIN, "with a rolling total winning of", SUM; }'
