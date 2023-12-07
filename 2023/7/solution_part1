@@ -13,13 +13,13 @@ function card_value() {
 
 while read HAND BID
 do
-    declare -A CARDS=()
+    declare -a CARDS=()
 
     RANK=
     # loop through each card in the hand, counting how many of each one there are, and assigning a sortable integer rank
     for ((i=0;i<=4;i++))
     do
-        ((CARDS[$(card_value ${HAND:$i:1})]+=1))
+        ((CARDS[10#$(card_value ${HAND:$i:1})]+=1))
         RANK+=.$(card_value ${HAND:$i:1})
     done
 
