@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+
+declare -A NODES
+SEQUENCE=
+
+while read LINE
+do
+    if [[ "$LINE" =~ ^[RL]+$ ]]
+    then
+        SEQUENCE=$LINE
+    elif [[ $LINE =~ ^([A-Z]{3}).*([A-Z]{3}).*([A-Z]{3}) ]]
+    then
+        NODES["${BASH_REMATCH[1]}"]="${BASH_REMATCH[2]} ${BASH_REMATCH[3]}"
+    fi
+done < input
+
+CURRENT_NODE="AAA"
+STEP=0
+for ((i=0;;i++))
+do
+    ((STEP++))
+    if [[ $i == "${#SEQUENCE}" ]]
+    then
+        i=0
+    fi
+    echo -n "Step $STEP: from $CURRENT_NODE "
+    read L R <<<${NODES["$CURRENT_NODE"]}
+    if [[ ${SEQUENCE:$i:1} == "L" ]]
+    then
+        CURRENT_NODE=$L
+        echo -n "move LEFT to "
+    elif [[ ${SEQUENCE:$i:1} == "R" ]]
+    then
+        CURRENT_NODE=$R
+        echo -n "move RIGHT to "
+    fi
+    echo $CURRENT_NODE
+    if [[ $CURRENT_NODE == "ZZZ" ]]; then break; fi
+done
